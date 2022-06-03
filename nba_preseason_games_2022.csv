@@ -1,0 +1,2473 @@
+	curr	opp_name	game_result	pts	opp_pts	wins	losses	game_streak
+0	ATL	Dallas Mavericks	W	113	87	1	0	W 1
+1	ATL	Cleveland Cavaliers	L	95	101	1	1	L 1
+2	ATL	Detroit Pistons	W	122	104	2	1	W 1
+3	ATL	New Orleans Pelicans	W	102	99	3	1	W 2
+4	ATL	Washington Wizards	L	111	122	3	2	L 1
+5	ATL	Philadelphia 76ers	L	94	122	3	3	L 2
+6	ATL	Washington Wizards	W	118	111	4	3	W 1
+7	ATL	Brooklyn Nets	L	108	117	4	4	L 1
+8	ATL	Utah Jazz	L	98	116	4	5	L 2
+9	ATL	Phoenix Suns	L	117	121	4	6	L 3
+10	ATL	Golden State Warriors	L	113	127	4	7	L 4
+11	ATL	Utah Jazz	L	98	110	4	8	L 5
+12	ATL	Denver Nuggets	L	96	105	4	9	L 6
+13	ATL	Milwaukee Bucks	W	120	100	5	9	W 1
+14	ATL	Orlando Magic	W	129	111	6	9	W 2
+15	ATL	Boston Celtics	W	110	99	7	9	W 3
+16	ATL	Charlotte Hornets	W	115	105	8	9	W 4
+17	ATL	Oklahoma City Thunder	W	113	101	9	9	W 5
+18	ATL	San Antonio Spurs	W	124	106	10	9	W 6
+19	ATL	Memphis Grizzlies	W	132	100	11	9	W 7
+20	ATL	New York Knicks	L	90	99	11	10	L 1
+21	ATL	Indiana Pacers	W	114	111	12	10	W 1
+22	ATL	Philadelphia 76ers	L	96	98	12	11	L 1
+23	ATL	Charlotte Hornets	L	127	130	12	12	L 2
+24	ATL	Minnesota Timberwolves	W	121	110	13	12	W 1
+25	ATL	Brooklyn Nets	L	105	113	13	13	L 1
+26	ATL	Houston Rockets	L	126	132	13	14	L 2
+27	ATL	Orlando Magic	W	111	99	14	14	W 1
+28	ATL	Denver Nuggets	L	115	133	14	15	L 1
+29	ATL	Orlando Magic	L	98	104	14	16	L 2
+30	ATL	Philadelphia 76ers	W	98	96	15	16	W 1
+31	ATL	New York Knicks	L	87	101	15	17	L 1
+32	ATL	Chicago Bulls	L	118	130	15	18	L 2
+33	ATL	Chicago Bulls	L	117	131	15	19	L 3
+34	ATL	Cleveland Cavaliers	W	121	118	16	19	W 1
+35	ATL	Portland Trail Blazers	L	131	136	16	20	L 1
+36	ATL	Sacramento Kings	W	108	102	17	20	W 1
+37	ATL	Los Angeles Lakers	L	118	134	17	21	L 1
+38	ATL	Los Angeles Clippers	L	93	106	17	22	L 2
+39	ATL	Miami Heat	L	91	115	17	23	L 3
+40	ATL	Miami Heat	L	118	124	17	24	L 4
+41	ATL	New York Knicks	L	108	117	17	25	L 5
+42	ATL	Milwaukee Bucks	W	121	114	18	25	W 1
+43	ATL	Minnesota Timberwolves	W	134	122	19	25	W 2
+44	ATL	Miami Heat	W	110	108	20	25	W 3
+45	ATL	Charlotte Hornets	W	113	91	21	25	W 4
+46	ATL	Sacramento Kings	W	121	104	22	25	W 5
+47	ATL	Boston Celtics	W	108	92	23	25	W 6
+48	ATL	Los Angeles Lakers	W	129	121	24	25	W 7
+49	ATL	Toronto Raptors	L	100	106	24	26	L 1
+50	ATL	Phoenix Suns	W	124	115	25	26	W 1
+51	ATL	Toronto Raptors	L	114	125	25	27	L 1
+52	ATL	Dallas Mavericks	L	94	103	25	28	L 2
+53	ATL	Indiana Pacers	W	133	112	26	28	W 1
+54	ATL	San Antonio Spurs	L	121	136	26	29	L 1
+55	ATL	Boston Celtics	L	95	105	26	30	L 2
+56	ATL	Cleveland Cavaliers	W	124	116	27	30	W 1
+57	ATL	Orlando Magic	W	130	109	28	30	W 2
+58	ATL	Chicago Bulls	L	108	112	28	31	L 1
+59	ATL	Toronto Raptors	W	127	100	29	31	W 1
+60	ATL	Boston Celtics	L	98	107	29	32	L 1
+61	ATL	Chicago Bulls	W	130	124	30	32	W 1
+62	ATL	Washington Wizards	W	117	114	31	32	W 2
+63	ATL	Detroit Pistons	L	110	113	31	33	L 1
+64	ATL	Milwaukee Bucks	L	115	124	31	34	L 2
+65	ATL	Los Angeles Clippers	W	112	106	32	34	W 1
+66	ATL	Indiana Pacers	W	131	128	33	34	W 2
+67	ATL	Portland Trail Blazers	W	122	113	34	34	W 3
+68	ATL	Charlotte Hornets	L	106	116	34	35	L 1
+69	ATL	Memphis Grizzlies	W	120	105	35	35	W 1
+70	ATL	New Orleans Pelicans	L	112	117	35	36	L 1
+71	ATL	New York Knicks	W	117	111	36	36	W 1
+72	ATL	Detroit Pistons	L	101	122	36	37	L 1
+73	ATL	Golden State Warriors	W	121	110	37	37	W 1
+74	ATL	Indiana Pacers	W	132	123	38	37	W 2
+75	ATL	Oklahoma City Thunder	W	136	118	39	37	W 3
+76	ATL	Cleveland Cavaliers	W	131	107	40	37	W 4
+77	ATL	Brooklyn Nets	W	122	115	41	37	W 5
+78	ATL	Toronto Raptors	L	108	118	41	38	L 1
+79	ATL	Washington Wizards	W	118	103	42	38	W 1
+80	ATL	Miami Heat	L	109	113	42	39	L 1
+81	ATL	Houston Rockets	W	130	114	43	39	W 1
+82	ATL	Charlotte Hornets	W	132	103	44	39	W 2
+83	ATL	Cleveland Cavaliers	W	107	101	45	39	W 3
+84	BRK	Milwaukee Bucks	L	104	127	0	1	L 1
+85	BRK	Philadelphia 76ers	W	114	109	1	1	W 1
+86	BRK	Charlotte Hornets	L	95	111	1	2	L 1
+87	BRK	Washington Wizards	W	104	90	2	2	W 1
+88	BRK	Miami Heat	L	93	106	2	3	L 1
+89	BRK	Indiana Pacers	W	105	98	3	3	W 1
+90	BRK	Detroit Pistons	W	117	91	4	3	W 2
+91	BRK	Atlanta Hawks	W	117	108	5	3	W 3
+92	BRK	Detroit Pistons	W	96	90	6	3	W 4
+93	BRK	Toronto Raptors	W	116	103	7	3	W 5
+94	BRK	Chicago Bulls	L	95	118	7	4	L 1
+95	BRK	Orlando Magic	W	123	90	8	4	W 1
+96	BRK	New Orleans Pelicans	W	120	112	9	4	W 2
+97	BRK	Oklahoma City Thunder	W	120	96	10	4	W 3
+98	BRK	Golden State Warriors	L	99	117	10	5	L 1
+99	BRK	Cleveland Cavaliers	W	109	99	11	5	W 1
+100	BRK	Orlando Magic	W	115	113	12	5	W 2
+101	BRK	Cleveland Cavaliers	W	117	112	13	5	W 3
+102	BRK	Boston Celtics	W	123	104	14	5	W 4
+103	BRK	Phoenix Suns	L	107	113	14	6	L 1
+104	BRK	New York Knicks	W	112	110	15	6	W 1
+105	BRK	Minnesota Timberwolves	W	110	105	16	6	W 2
+106	BRK	Chicago Bulls	L	107	111	16	7	L 1
+107	BRK	Dallas Mavericks	W	102	99	17	7	W 1
+108	BRK	Houston Rockets	L	104	114	17	8	L 1
+109	BRK	Atlanta Hawks	W	113	105	18	8	W 1
+110	BRK	Detroit Pistons	W	116	104	19	8	W 2
+111	BRK	Toronto Raptors	W	131	129	20	8	W 3
+112	BRK	Philadelphia 76ers	W	114	105	21	8	W 4
+113	BRK	Orlando Magic	L	93	100	21	9	L 1
+114	BRK	Los Angeles Lakers	W	122	115	22	9	W 1
+115	BRK	Los Angeles Clippers	W	124	108	23	9	W 2
+116	BRK	Philadelphia 76ers	L	102	110	23	10	L 1
+117	BRK	Los Angeles Clippers	L	116	120	23	11	L 2
+118	BRK	Memphis Grizzlies	L	104	118	23	12	L 3
+119	BRK	Indiana Pacers	W	129	121	24	12	W 1
+120	BRK	Milwaukee Bucks	L	109	121	24	13	L 1
+121	BRK	San Antonio Spurs	W	121	119	25	13	W 1
+122	BRK	Portland Trail Blazers	L	108	114	25	14	L 1
+123	BRK	Chicago Bulls	W	138	112	26	14	W 1
+124	BRK	Oklahoma City Thunder	L	109	130	26	15	L 1
+125	BRK	New Orleans Pelicans	W	120	105	27	15	W 1
+126	BRK	Cleveland Cavaliers	L	107	114	27	16	L 1
+127	BRK	Washington Wizards	W	119	118	28	16	W 1
+128	BRK	San Antonio Spurs	W	117	102	29	16	W 2
+129	BRK	Minnesota Timberwolves	L	125	136	29	17	L 1
+130	BRK	Los Angeles Lakers	L	96	106	29	18	L 2
+131	BRK	Denver Nuggets	L	118	124	29	19	L 3
+132	BRK	Golden State Warriors	L	106	110	29	20	L 4
+133	BRK	Phoenix Suns	L	111	121	29	21	L 5
+134	BRK	Sacramento Kings	L	101	112	29	22	L 6
+135	BRK	Utah Jazz	L	102	125	29	23	L 7
+136	BRK	Denver Nuggets	L	104	124	29	24	L 8
+137	BRK	Boston Celtics	L	91	126	29	25	L 9
+138	BRK	Washington Wizards	L	112	113	29	26	L 10
+139	BRK	Miami Heat	L	111	115	29	27	L 11
+140	BRK	Sacramento Kings	W	109	85	30	27	W 1
+141	BRK	New York Knicks	W	111	106	31	27	W 2
+142	BRK	Washington Wizards	L	103	117	31	28	L 1
+143	BRK	Boston Celtics	L	106	129	31	29	L 2
+144	BRK	Milwaukee Bucks	W	126	123	32	29	W 1
+145	BRK	Toronto Raptors	L	97	133	32	30	L 1
+146	BRK	Toronto Raptors	L	108	109	32	31	L 2
+147	BRK	Miami Heat	L	107	113	32	32	L 3
+148	BRK	Boston Celtics	L	120	126	32	33	L 4
+149	BRK	Charlotte Hornets	W	132	121	33	33	W 1
+150	BRK	Philadelphia 76ers	W	129	100	34	33	W 2
+151	BRK	New York Knicks	W	110	107	35	33	W 3
+152	BRK	Orlando Magic	W	150	108	36	33	W 4
+153	BRK	Dallas Mavericks	L	111	113	36	34	L 1
+154	BRK	Portland Trail Blazers	W	128	123	37	34	W 1
+155	BRK	Utah Jazz	W	114	106	38	34	W 2
+156	BRK	Memphis Grizzlies	L	120	132	38	35	L 1
+157	BRK	Miami Heat	W	110	95	39	35	W 1
+158	BRK	Charlotte Hornets	L	110	119	39	36	L 1
+159	BRK	Detroit Pistons	W	130	123	40	36	W 1
+160	BRK	Milwaukee Bucks	L	119	120	40	37	L 1
+161	BRK	Atlanta Hawks	L	115	122	40	38	L 2
+162	BRK	Houston Rockets	W	118	105	41	38	W 1
+163	BRK	New York Knicks	W	110	98	42	38	W 2
+164	BRK	Cleveland Cavaliers	W	118	107	43	38	W 3
+165	BRK	Indiana Pacers	W	134	126	44	38	W 4
+166	BRK	Cleveland Cavaliers	W	115	108	45	38	W 5
+167	BOS	New York Knicks	L	134	138	0	1	L 1
+168	BOS	Toronto Raptors	L	83	115	0	2	L 2
+169	BOS	Houston Rockets	W	107	97	1	2	W 1
+170	BOS	Charlotte Hornets	W	140	129	2	2	W 2
+171	BOS	Washington Wizards	L	107	116	2	3	L 1
+172	BOS	Washington Wizards	L	112	115	2	4	L 2
+173	BOS	Chicago Bulls	L	114	128	2	5	L 3
+174	BOS	Orlando Magic	W	92	79	3	5	W 1
+175	BOS	Miami Heat	W	95	78	4	5	W 2
+176	BOS	Dallas Mavericks	L	104	107	4	6	L 1
+177	BOS	Toronto Raptors	W	104	88	5	6	W 1
+178	BOS	Milwaukee Bucks	W	122	113	6	6	W 2
+179	BOS	Cleveland Cavaliers	L	89	91	6	7	L 1
+180	BOS	Cleveland Cavaliers	W	98	92	7	7	W 1
+181	BOS	Atlanta Hawks	L	99	110	7	8	L 1
+182	BOS	Los Angeles Lakers	W	130	108	8	8	W 1
+183	BOS	Oklahoma City Thunder	W	111	105	9	8	W 2
+184	BOS	Houston Rockets	W	108	90	10	8	W 3
+185	BOS	Brooklyn Nets	L	104	123	10	9	L 1
+186	BOS	San Antonio Spurs	L	88	96	10	10	L 2
+187	BOS	Toronto Raptors	W	109	97	11	10	W 1
+188	BOS	Philadelphia 76ers	W	88	87	12	10	W 2
+189	BOS	Utah Jazz	L	130	137	12	11	L 1
+190	BOS	Portland Trail Blazers	W	145	117	13	11	W 1
+191	BOS	Los Angeles Lakers	L	102	117	13	12	L 1
+192	BOS	Los Angeles Clippers	L	111	114	13	13	L 2
+193	BOS	Phoenix Suns	L	90	111	13	14	L 3
+194	BOS	Milwaukee Bucks	W	117	103	14	14	W 1
+195	BOS	Golden State Warriors	L	107	111	14	15	L 1
+196	BOS	New York Knicks	W	114	107	15	15	W 1
+197	BOS	Philadelphia 76ers	L	103	108	15	16	L 1
+198	BOS	Cleveland Cavaliers	W	111	101	16	16	W 1
+199	BOS	Milwaukee Bucks	L	113	117	16	17	L 1
+200	BOS	Minnesota Timberwolves	L	103	108	16	18	L 2
+201	BOS	Los Angeles Clippers	L	82	91	16	19	L 3
+202	BOS	Phoenix Suns	W	123	108	17	19	W 1
+203	BOS	Orlando Magic	W	116	111	18	19	W 2
+204	BOS	San Antonio Spurs	L	97	99	18	20	L 1
+205	BOS	New York Knicks	L	105	108	18	21	L 2
+206	BOS	New York Knicks	W	99	75	19	21	W 1
+207	BOS	Indiana Pacers	W	101	98	20	21	W 2
+208	BOS	Indiana Pacers	W	119	100	21	21	W 3
+209	BOS	Philadelphia 76ers	L	99	111	21	22	L 1
+210	BOS	Chicago Bulls	W	114	112	22	22	W 1
+211	BOS	New Orleans Pelicans	W	104	92	23	22	W 2
+212	BOS	Charlotte Hornets	L	102	111	23	23	L 1
+213	BOS	Portland Trail Blazers	L	105	109	23	24	L 2
+214	BOS	Washington Wizards	W	116	87	24	24	W 1
+215	BOS	Sacramento Kings	W	128	75	25	24	W 2
+216	BOS	Atlanta Hawks	L	92	108	25	25	L 1
+217	BOS	New Orleans Pelicans	W	107	97	26	25	W 1
+218	BOS	Miami Heat	W	122	92	27	25	W 2
+219	BOS	Charlotte Hornets	W	113	107	28	25	W 3
+220	BOS	Detroit Pistons	W	102	93	29	25	W 4
+221	BOS	Orlando Magic	W	116	83	30	25	W 5
+222	BOS	Brooklyn Nets	W	126	91	31	25	W 6
+223	BOS	Denver Nuggets	W	108	102	32	25	W 7
+224	BOS	Atlanta Hawks	W	105	95	33	25	W 8
+225	BOS	Philadelphia 76ers	W	135	87	34	25	W 9
+226	BOS	Detroit Pistons	L	111	112	34	26	L 1
+227	BOS	Brooklyn Nets	W	129	106	35	26	W 1
+228	BOS	Detroit Pistons	W	113	104	36	26	W 2
+229	BOS	Indiana Pacers	L	107	128	36	27	L 1
+230	BOS	Atlanta Hawks	W	107	98	37	27	W 1
+231	BOS	Memphis Grizzlies	W	120	107	38	27	W 2
+232	BOS	Brooklyn Nets	W	126	120	39	27	W 3
+233	BOS	Charlotte Hornets	W	115	101	40	27	W 4
+234	BOS	Detroit Pistons	W	114	103	41	27	W 5
+235	BOS	Dallas Mavericks	L	92	95	41	28	L 1
+236	BOS	Golden State Warriors	W	110	88	42	28	W 1
+237	BOS	Sacramento Kings	W	126	97	43	28	W 2
+238	BOS	Denver Nuggets	W	124	104	44	28	W 3
+239	BOS	Oklahoma City Thunder	W	132	123	45	28	W 4
+240	BOS	Utah Jazz	W	125	97	46	28	W 5
+241	BOS	Minnesota Timberwolves	W	134	112	47	28	W 6
+242	BOS	Toronto Raptors	L	112	115	47	29	L 1
+243	BOS	Miami Heat	L	98	106	47	30	L 2
+244	BOS	Indiana Pacers	W	128	123	48	30	W 1
+245	BOS	Washington Wizards	W	144	102	49	30	W 2
+246	BOS	Chicago Bulls	W	117	94	50	30	W 3
+247	BOS	Milwaukee Bucks	L	121	127	50	31	L 1
+248	BOS	Memphis Grizzlies	W	139	110	51	31	W 1
+249	CHO	Indiana Pacers	W	123	122	1	0	W 1
+250	CHO	Cleveland Cavaliers	W	123	112	2	0	W 2
+251	CHO	Brooklyn Nets	W	111	95	3	0	W 3
+252	CHO	Boston Celtics	L	129	140	3	1	L 1
+253	CHO	Orlando Magic	W	120	111	4	1	W 1
+254	CHO	Miami Heat	L	99	114	4	2	L 1
+255	CHO	Portland Trail Blazers	W	125	113	5	2	W 1
+256	CHO	Cleveland Cavaliers	L	110	113	5	3	L 1
+257	CHO	Golden State Warriors	L	92	114	5	4	L 2
+258	CHO	Sacramento Kings	L	110	140	5	5	L 3
+259	CHO	Los Angeles Clippers	L	106	120	5	6	L 4
+260	CHO	Los Angeles Lakers	L	123	126	5	7	L 5
+261	CHO	Memphis Grizzlies	W	118	108	6	7	W 1
+262	CHO	New York Knicks	W	104	96	7	7	W 2
+263	CHO	Golden State Warriors	W	106	102	8	7	W 3
+264	CHO	Washington Wizards	W	97	87	9	7	W 4
+265	CHO	Indiana Pacers	W	121	118	10	7	W 5
+266	CHO	Atlanta Hawks	L	105	115	10	8	L 1
+267	CHO	Washington Wizards	W	109	103	11	8	W 1
+268	CHO	Orlando Magic	W	106	99	12	8	W 2
+269	CHO	Minnesota Timberwolves	W	133	115	13	8	W 3
+270	CHO	Houston Rockets	L	143	146	13	9	L 1
+271	CHO	Chicago Bulls	L	119	133	13	10	L 2
+272	CHO	Milwaukee Bucks	L	125	127	13	11	L 3
+273	CHO	Atlanta Hawks	W	130	127	14	11	W 1
+274	CHO	Philadelphia 76ers	L	124	127	14	12	L 1
+275	CHO	Philadelphia 76ers	L	106	110	14	13	L 2
+276	CHO	Sacramento Kings	W	124	123	15	13	W 1
+277	CHO	Dallas Mavericks	L	96	120	15	14	L 1
+278	CHO	San Antonio Spurs	W	131	115	16	14	W 1
+279	CHO	Portland Trail Blazers	L	116	125	16	15	L 1
+280	CHO	Phoenix Suns	L	106	137	16	16	L 2
+281	CHO	Utah Jazz	L	102	112	16	17	L 3
+282	CHO	Denver Nuggets	W	115	107	17	17	W 1
+283	CHO	Houston Rockets	W	123	99	18	17	W 2
+284	CHO	Indiana Pacers	W	116	108	19	17	W 3
+285	CHO	Phoenix Suns	L	99	133	19	18	L 1
+286	CHO	Washington Wizards	L	121	124	19	19	L 2
+287	CHO	Detroit Pistons	W	140	111	20	19	W 1
+288	CHO	Milwaukee Bucks	W	114	106	21	19	W 2
+289	CHO	Milwaukee Bucks	W	103	99	22	19	W 3
+290	CHO	Philadelphia 76ers	W	109	98	23	19	W 4
+291	CHO	Orlando Magic	L	109	116	23	20	L 1
+292	CHO	New York Knicks	W	97	87	24	20	W 1
+293	CHO	Boston Celtics	W	111	102	25	20	W 2
+294	CHO	Oklahoma City Thunder	W	121	98	26	20	W 3
+295	CHO	Atlanta Hawks	L	91	113	26	21	L 1
+296	CHO	Toronto Raptors	L	113	125	26	22	L 2
+297	CHO	Indiana Pacers	W	158	126	27	22	W 1
+298	CHO	Los Angeles Lakers	W	117	114	28	22	W 2
+299	CHO	Los Angeles Clippers	L	90	115	28	23	L 1
+300	CHO	Boston Celtics	L	107	113	28	24	L 2
+301	CHO	Cleveland Cavaliers	L	101	102	28	25	L 3
+302	CHO	Miami Heat	L	86	104	28	26	L 4
+303	CHO	Toronto Raptors	L	101	116	28	27	L 5
+304	CHO	Chicago Bulls	L	109	121	28	28	L 6
+305	CHO	Detroit Pistons	W	141	119	29	28	W 1
+306	CHO	Memphis Grizzlies	L	118	125	29	29	L 1
+307	CHO	Minnesota Timberwolves	L	120	126	29	30	L 2
+308	CHO	Miami Heat	L	107	111	29	31	L 3
+309	CHO	Toronto Raptors	W	125	93	30	31	W 1
+310	CHO	Detroit Pistons	L	126	127	30	32	L 1
+311	CHO	Milwaukee Bucks	L	106	130	30	33	L 2
+312	CHO	Cleveland Cavaliers	W	119	98	31	33	W 1
+313	CHO	San Antonio Spurs	W	123	117	32	33	W 2
+314	CHO	Brooklyn Nets	L	121	132	32	34	L 1
+315	CHO	Boston Celtics	L	101	115	32	35	L 2
+316	CHO	New Orleans Pelicans	W	142	120	33	35	W 1
+317	CHO	Oklahoma City Thunder	W	134	116	34	35	W 2
+318	CHO	Atlanta Hawks	W	116	106	35	35	W 3
+319	CHO	Dallas Mavericks	W	129	108	36	35	W 4
+320	CHO	New Orleans Pelicans	W	106	103	37	35	W 5
+321	CHO	New York Knicks	L	106	121	37	36	L 1
+322	CHO	Utah Jazz	W	107	101	38	36	W 1
+323	CHO	Brooklyn Nets	W	119	110	39	36	W 2
+324	CHO	Denver Nuggets	L	109	113	39	37	L 1
+325	CHO	New York Knicks	W	125	114	40	37	W 1
+326	CHO	Philadelphia 76ers	L	114	144	40	38	L 1
+327	CHO	Miami Heat	L	115	144	40	39	L 2
+328	CHO	Orlando Magic	W	128	101	41	39	W 1
+329	CHO	Chicago Bulls	W	133	117	42	39	W 2
+330	CHO	Washington Wizards	W	124	108	43	39	W 3
+331	CHO	Atlanta Hawks	L	103	132	43	40	L 1
+332	CHI	Detroit Pistons	W	94	88	1	0	W 1
+333	CHI	New Orleans Pelicans	W	128	112	2	0	W 2
+334	CHI	Detroit Pistons	W	97	82	3	0	W 3
+335	CHI	Toronto Raptors	W	111	108	4	0	W 4
+336	CHI	New York Knicks	L	103	104	4	1	L 1
+337	CHI	Utah Jazz	W	107	99	5	1	W 1
+338	CHI	Boston Celtics	W	128	114	6	1	W 2
+339	CHI	Philadelphia 76ers	L	98	103	6	2	L 1
+340	CHI	Philadelphia 76ers	L	105	114	6	3	L 2
+341	CHI	Brooklyn Nets	W	118	95	7	3	W 1
+342	CHI	Dallas Mavericks	W	117	107	8	3	W 2
+343	CHI	Golden State Warriors	L	93	119	8	4	L 1
+344	CHI	Los Angeles Clippers	W	100	90	9	4	W 1
+345	CHI	Los Angeles Lakers	W	121	103	10	4	W 2
+346	CHI	Portland Trail Blazers	L	107	112	10	5	L 1
+347	CHI	Denver Nuggets	W	114	108	11	5	W 1
+348	CHI	New York Knicks	W	109	103	12	5	W 2
+349	CHI	Indiana Pacers	L	77	109	12	6	L 1
+350	CHI	Houston Rockets	L	113	118	12	7	L 2
+351	CHI	Orlando Magic	W	123	88	13	7	W 1
+352	CHI	Miami Heat	L	104	107	13	8	L 1
+353	CHI	Charlotte Hornets	W	133	119	14	8	W 1
+354	CHI	New York Knicks	W	119	115	15	8	W 2
+355	CHI	Brooklyn Nets	W	111	107	16	8	W 3
+356	CHI	Denver Nuggets	W	109	97	17	8	W 4
+357	CHI	Cleveland Cavaliers	L	92	115	17	9	L 1
+358	CHI	Miami Heat	L	92	118	17	10	L 2
+359	CHI	Los Angeles Lakers	W	115	110	18	10	W 1
+360	CHI	Houston Rockets	W	133	118	19	10	W 2
+361	CHI	Indiana Pacers	W	113	105	20	10	W 3
+362	CHI	Atlanta Hawks	W	130	118	21	10	W 4
+363	CHI	Atlanta Hawks	W	131	117	22	10	W 5
+364	CHI	Indiana Pacers	W	108	106	23	10	W 6
+365	CHI	Washington Wizards	W	120	119	24	10	W 7
+366	CHI	Orlando Magic	W	102	98	25	10	W 8
+367	CHI	Washington Wizards	W	130	122	26	10	W 9
+368	CHI	Dallas Mavericks	L	99	113	26	11	L 1
+369	CHI	Detroit Pistons	W	133	87	27	11	W 1
+370	CHI	Brooklyn Nets	L	112	138	27	12	L 1
+371	CHI	Golden State Warriors	L	96	138	27	13	L 2
+372	CHI	Boston Celtics	L	112	114	27	14	L 3
+373	CHI	Memphis Grizzlies	L	106	119	27	15	L 4
+374	CHI	Cleveland Cavaliers	W	117	104	28	15	W 1
+375	CHI	Milwaukee Bucks	L	90	94	28	16	L 1
+376	CHI	Orlando Magic	L	95	114	28	17	L 2
+377	CHI	Oklahoma City Thunder	W	111	110	29	17	W 1
+378	CHI	Toronto Raptors	W	111	105	30	17	W 2
+379	CHI	San Antonio Spurs	L	122	131	30	18	L 1
+380	CHI	Portland Trail Blazers	W	130	116	31	18	W 1
+381	CHI	Orlando Magic	W	126	115	32	18	W 2
+382	CHI	Toronto Raptors	L	120	127	32	19	L 1
+383	CHI	Indiana Pacers	W	122	115	33	19	W 1
+384	CHI	Philadelphia 76ers	L	108	119	33	20	L 1
+385	CHI	Phoenix Suns	L	124	127	33	21	L 2
+386	CHI	Charlotte Hornets	W	121	109	34	21	W 1
+387	CHI	Minnesota Timberwolves	W	134	122	35	21	W 2
+388	CHI	Oklahoma City Thunder	W	106	101	36	21	W 3
+389	CHI	San Antonio Spurs	W	120	109	37	21	W 4
+390	CHI	Sacramento Kings	W	125	118	38	21	W 5
+391	CHI	Atlanta Hawks	W	112	108	39	21	W 6
+392	CHI	Memphis Grizzlies	L	110	116	39	22	L 1
+393	CHI	Miami Heat	L	99	112	39	23	L 2
+394	CHI	Atlanta Hawks	L	124	130	39	24	L 3
+395	CHI	Milwaukee Bucks	L	112	118	39	25	L 4
+396	CHI	Philadelphia 76ers	L	106	121	39	26	L 5
+397	CHI	Detroit Pistons	W	114	108	40	26	W 1
+398	CHI	Cleveland Cavaliers	W	101	91	41	26	W 2
+399	CHI	Sacramento Kings	L	103	112	41	27	L 1
+400	CHI	Utah Jazz	L	110	125	41	28	L 2
+401	CHI	Phoenix Suns	L	102	129	41	29	L 3
+402	CHI	Toronto Raptors	W	113	99	42	29	W 1
+403	CHI	Milwaukee Bucks	L	98	126	42	30	L 1
+404	CHI	New Orleans Pelicans	L	109	126	42	31	L 2
+405	CHI	Cleveland Cavaliers	W	98	94	43	31	W 1
+406	CHI	New York Knicks	L	104	109	43	32	L 1
+407	CHI	Washington Wizards	W	107	94	44	32	W 1
+408	CHI	Los Angeles Clippers	W	135	130	45	32	W 2
+409	CHI	Miami Heat	L	109	127	45	33	L 1
+410	CHI	Milwaukee Bucks	L	106	127	45	34	L 2
+411	CHI	Boston Celtics	L	94	117	45	35	L 3
+412	CHI	Charlotte Hornets	L	117	133	45	36	L 4
+413	CHI	Minnesota Timberwolves	W	124	120	46	36	W 1
+414	CLE	Memphis Grizzlies	L	121	132	0	1	L 1
+415	CLE	Charlotte Hornets	L	112	123	0	2	L 2
+416	CLE	Atlanta Hawks	W	101	95	1	2	W 1
+417	CLE	Denver Nuggets	W	99	87	2	2	W 2
+418	CLE	Los Angeles Clippers	W	92	79	3	2	W 3
+419	CLE	Los Angeles Lakers	L	101	113	3	3	L 1
+420	CLE	Phoenix Suns	L	92	101	3	4	L 2
+421	CLE	Charlotte Hornets	W	113	110	4	4	W 1
+422	CLE	Portland Trail Blazers	W	107	104	5	4	W 2
+423	CLE	Toronto Raptors	W	102	101	6	4	W 3
+424	CLE	New York Knicks	W	126	109	7	4	W 4
+425	CLE	Washington Wizards	L	94	97	7	5	L 1
+426	CLE	Detroit Pistons	W	98	78	8	5	W 1
+427	CLE	Boston Celtics	W	91	89	9	5	W 2
+428	CLE	Boston Celtics	L	92	98	9	6	L 1
+429	CLE	Brooklyn Nets	L	99	109	9	7	L 2
+430	CLE	Golden State Warriors	L	89	104	9	8	L 3
+431	CLE	Brooklyn Nets	L	112	117	9	9	L 4
+432	CLE	Phoenix Suns	L	115	120	9	10	L 5
+433	CLE	Orlando Magic	W	105	92	10	10	W 1
+434	CLE	Dallas Mavericks	W	114	96	11	10	W 2
+435	CLE	Miami Heat	W	111	85	12	10	W 3
+436	CLE	Washington Wizards	W	116	101	13	10	W 4
+437	CLE	Utah Jazz	L	108	109	13	11	L 1
+438	CLE	Milwaukee Bucks	L	104	112	13	12	L 2
+439	CLE	Chicago Bulls	W	115	92	14	12	W 1
+440	CLE	Minnesota Timberwolves	W	123	106	15	12	W 2
+441	CLE	Sacramento Kings	W	117	103	16	12	W 3
+442	CLE	Miami Heat	W	105	94	17	12	W 4
+443	CLE	Houston Rockets	W	124	89	18	12	W 5
+444	CLE	Milwaukee Bucks	W	119	90	19	12	W 6
+445	CLE	Boston Celtics	L	101	111	19	13	L 1
+446	CLE	Toronto Raptors	W	144	99	20	13	W 1
+447	CLE	New Orleans Pelicans	L	104	108	20	14	L 1
+448	CLE	Washington Wizards	L	93	110	20	15	L 2
+449	CLE	Atlanta Hawks	L	118	121	20	16	L 3
+450	CLE	Indiana Pacers	W	108	104	21	16	W 1
+451	CLE	Memphis Grizzlies	L	106	110	21	17	L 1
+452	CLE	Portland Trail Blazers	W	114	101	22	17	W 1
+453	CLE	Golden State Warriors	L	82	96	22	18	L 1
+454	CLE	Sacramento Kings	W	109	108	23	18	W 1
+455	CLE	Utah Jazz	W	111	91	24	18	W 2
+456	CLE	San Antonio Spurs	W	114	109	25	18	W 3
+457	CLE	Oklahoma City Thunder	W	107	102	26	18	W 4
+458	CLE	Brooklyn Nets	W	114	107	27	18	W 5
+459	CLE	Chicago Bulls	L	104	117	27	19	L 1
+460	CLE	Oklahoma City Thunder	W	94	87	28	19	W 1
+461	CLE	New York Knicks	W	95	93	29	19	W 2
+462	CLE	Milwaukee Bucks	W	115	99	30	19	W 3
+463	CLE	Detroit Pistons	L	105	115	30	20	L 1
+464	CLE	New Orleans Pelicans	W	93	90	31	20	W 1
+465	CLE	Houston Rockets	L	104	115	31	21	L 1
+466	CLE	Charlotte Hornets	W	102	101	32	21	W 1
+467	CLE	Indiana Pacers	W	98	85	33	21	W 2
+468	CLE	San Antonio Spurs	W	105	92	34	21	W 3
+469	CLE	Indiana Pacers	W	120	113	35	21	W 4
+470	CLE	Philadelphia 76ers	L	93	103	35	22	L 1
+471	CLE	Atlanta Hawks	L	116	124	35	23	L 2
+472	CLE	Detroit Pistons	L	103	106	35	24	L 3
+473	CLE	Washington Wizards	W	92	86	36	24	W 1
+474	CLE	Minnesota Timberwolves	L	122	127	36	25	L 1
+475	CLE	Charlotte Hornets	L	98	119	36	26	L 2
+476	CLE	Philadelphia 76ers	L	119	125	36	27	L 3
+477	CLE	Toronto Raptors	W	104	96	37	27	W 1
+478	CLE	Indiana Pacers	W	127	124	38	27	W 2
+479	CLE	Miami Heat	L	105	117	38	28	L 1
+480	CLE	Chicago Bulls	L	91	101	38	29	L 2
+481	CLE	Los Angeles Clippers	W	120	111	39	29	W 1
+482	CLE	Philadelphia 76ers	L	114	118	39	30	L 1
+483	CLE	Denver Nuggets	W	119	116	40	30	W 1
+484	CLE	Detroit Pistons	W	113	109	41	30	W 2
+485	CLE	Los Angeles Lakers	L	120	131	41	31	L 1
+486	CLE	Toronto Raptors	L	104	117	41	32	L 2
+487	CLE	Chicago Bulls	L	94	98	41	33	L 3
+488	CLE	Orlando Magic	W	107	101	42	33	W 1
+489	CLE	Dallas Mavericks	L	112	120	42	34	L 1
+490	CLE	Atlanta Hawks	L	107	131	42	35	L 2
+491	CLE	New York Knicks	W	119	101	43	35	W 1
+492	CLE	Philadelphia 76ers	L	108	112	43	36	L 1
+493	CLE	Orlando Magic	L	115	120	43	37	L 2
+494	CLE	Brooklyn Nets	L	107	118	43	38	L 3
+495	CLE	Milwaukee Bucks	W	133	115	44	38	W 1
+496	CLE	Brooklyn Nets	L	108	115	44	39	L 1
+497	CLE	Atlanta Hawks	L	101	107	44	40	L 2
+498	DAL	Atlanta Hawks	L	87	113	0	1	L 1
+499	DAL	Toronto Raptors	W	103	95	1	1	W 1
+500	DAL	Houston Rockets	W	116	106	2	1	W 2
+501	DAL	San Antonio Spurs	W	104	99	3	1	W 3
+502	DAL	Denver Nuggets	L	75	106	3	2	L 1
+503	DAL	Sacramento Kings	W	105	99	4	2	W 1
+504	DAL	Miami Heat	L	110	125	4	3	L 1
+505	DAL	San Antonio Spurs	W	109	108	5	3	W 1
+506	DAL	Boston Celtics	W	107	104	6	3	W 2
+507	DAL	New Orleans Pelicans	W	108	92	7	3	W 3
+508	DAL	Chicago Bulls	L	107	117	7	4	L 1
+509	DAL	San Antonio Spurs	W	123	109	8	4	W 1
+510	DAL	Denver Nuggets	W	111	101	9	4	W 2
+511	DAL	Phoenix Suns	L	98	105	9	5	L 1
+512	DAL	Phoenix Suns	L	104	112	9	6	L 2
+513	DAL	Los Angeles Clippers	L	91	97	9	7	L 3
+514	DAL	Los Angeles Clippers	W	112	104	10	7	W 1
+515	DAL	Washington Wizards	L	114	120	10	8	L 1
+516	DAL	Cleveland Cavaliers	L	96	114	10	9	L 2
+517	DAL	New Orleans Pelicans	W	139	107	11	9	W 1
+518	DAL	New Orleans Pelicans	L	91	107	11	10	L 1
+519	DAL	Memphis Grizzlies	L	90	97	11	11	L 2
+520	DAL	Brooklyn Nets	L	99	102	11	12	L 3
+521	DAL	Memphis Grizzlies	W	104	96	12	12	W 1
+522	DAL	Indiana Pacers	L	93	106	12	13	L 1
+523	DAL	Oklahoma City Thunder	W	103	84	13	13	W 1
+524	DAL	Charlotte Hornets	W	120	96	14	13	W 2
+525	DAL	Los Angeles Lakers	L	104	107	14	14	L 1
+526	DAL	Minnesota Timberwolves	L	105	111	14	15	L 2
+527	DAL	Minnesota Timberwolves	W	114	102	15	15	W 1
+528	DAL	Milwaukee Bucks	L	95	102	15	16	L 1
+529	DAL	Utah Jazz	L	116	120	15	17	L 2
+530	DAL	Portland Trail Blazers	W	132	117	16	17	W 1
+531	DAL	Sacramento Kings	L	94	95	16	18	L 1
+532	DAL	Sacramento Kings	W	112	96	17	18	W 1
+533	DAL	Oklahoma City Thunder	W	95	86	18	18	W 2
+534	DAL	Denver Nuggets	W	103	89	19	18	W 3
+535	DAL	Golden State Warriors	W	99	82	20	18	W 4
+536	DAL	Houston Rockets	W	130	106	21	18	W 5
+537	DAL	Chicago Bulls	W	113	99	22	18	W 6
+538	DAL	New York Knicks	L	85	108	22	19	L 1
+539	DAL	Memphis Grizzlies	W	112	85	23	19	W 1
+540	DAL	Orlando Magic	W	108	92	24	19	W 2
+541	DAL	Oklahoma City Thunder	W	104	102	25	19	W 3
+542	DAL	Toronto Raptors	W	102	98	26	19	W 4
+543	DAL	Phoenix Suns	L	101	109	26	20	L 1
+544	DAL	Memphis Grizzlies	W	104	91	27	20	W 1
+545	DAL	Golden State Warriors	L	92	130	27	21	L 1
+546	DAL	Portland Trail Blazers	W	132	112	28	21	W 1
+547	DAL	Indiana Pacers	W	132	105	29	21	W 2
+548	DAL	Orlando Magic	L	108	110	29	22	L 1
+549	DAL	Oklahoma City Thunder	L	114	120	29	23	L 2
+550	DAL	Philadelphia 76ers	W	107	98	30	23	W 1
+551	DAL	Atlanta Hawks	W	103	94	31	23	W 2
+552	DAL	Detroit Pistons	W	116	86	32	23	W 3
+553	DAL	Los Angeles Clippers	W	112	105	33	23	W 4
+554	DAL	Los Angeles Clippers	L	97	99	33	24	L 1
+555	DAL	Miami Heat	W	107	99	34	24	W 1
+556	DAL	New Orleans Pelicans	W	125	118	35	24	W 2
+557	DAL	Utah Jazz	L	109	114	35	25	L 1
+558	DAL	Golden State Warriors	W	107	101	36	25	W 1
+559	DAL	Los Angeles Lakers	W	109	104	37	25	W 2
+560	DAL	Golden State Warriors	W	122	113	38	25	W 3
+561	DAL	Sacramento Kings	W	114	113	39	25	W 4
+562	DAL	Utah Jazz	W	111	103	40	25	W 5
+563	DAL	New York Knicks	L	77	107	40	26	L 1
+564	DAL	Houston Rockets	W	113	100	41	26	W 1
+565	DAL	Boston Celtics	W	95	92	42	26	W 2
+566	DAL	Brooklyn Nets	W	113	111	43	26	W 3
+567	DAL	Philadelphia 76ers	L	101	111	43	27	L 1
+568	DAL	Charlotte Hornets	L	108	129	43	28	L 2
+569	DAL	Minnesota Timberwolves	W	110	108	44	28	W 1
+570	DAL	Houston Rockets	W	110	91	45	28	W 2
+571	DAL	Minnesota Timberwolves	L	95	116	45	29	L 1
+572	DAL	Utah Jazz	W	114	100	46	29	W 1
+573	DAL	Los Angeles Lakers	W	128	110	47	29	W 2
+574	DAL	Cleveland Cavaliers	W	120	112	48	29	W 3
+575	DAL	Washington Wizards	L	103	135	48	30	L 1
+576	DAL	Milwaukee Bucks	W	118	112	49	30	W 1
+577	DAL	Detroit Pistons	W	131	113	50	30	W 2
+578	DAL	Portland Trail Blazers	W	128	78	51	30	W 3
+579	DAL	San Antonio Spurs	W	130	120	52	30	W 4
+580	DEN	Phoenix Suns	W	110	98	1	0	W 1
+581	DEN	San Antonio Spurs	W	102	96	2	0	W 2
+582	DEN	Cleveland Cavaliers	L	87	99	2	1	L 1
+583	DEN	Utah Jazz	L	110	122	2	2	L 2
+584	DEN	Dallas Mavericks	W	106	75	3	2	W 1
+585	DEN	Minnesota Timberwolves	W	93	91	4	2	W 2
+586	DEN	Memphis Grizzlies	L	97	106	4	3	L 1
+587	DEN	Memphis Grizzlies	L	106	108	4	4	L 2
+588	DEN	Houston Rockets	W	95	94	5	4	W 1
+589	DEN	Miami Heat	W	113	96	6	4	W 2
+590	DEN	Indiana Pacers	W	101	98	7	4	W 3
+591	DEN	Atlanta Hawks	W	105	96	8	4	W 4
+592	DEN	Portland Trail Blazers	W	124	95	9	4	W 5
+593	DEN	Dallas Mavericks	L	101	111	9	5	L 1
+594	DEN	Philadelphia 76ers	L	89	103	9	6	L 2
+595	DEN	Chicago Bulls	L	108	114	9	7	L 3
+596	DEN	Phoenix Suns	L	97	126	9	8	L 4
+597	DEN	Portland Trail Blazers	L	100	119	9	9	L 5
+598	DEN	Milwaukee Bucks	L	109	120	9	10	L 6
+599	DEN	Miami Heat	W	120	111	10	10	W 1
+600	DEN	Orlando Magic	L	103	108	10	11	L 1
+601	DEN	New York Knicks	W	113	99	11	11	W 1
+602	DEN	Chicago Bulls	L	97	109	11	12	L 1
+603	DEN	New Orleans Pelicans	W	120	114	12	12	W 1
+604	DEN	San Antonio Spurs	L	111	123	12	13	L 1
+605	DEN	San Antonio Spurs	W	127	112	13	13	W 1
+606	DEN	Washington Wizards	W	113	107	14	13	W 2
+607	DEN	Minnesota Timberwolves	L	107	124	14	14	L 1
+608	DEN	Atlanta Hawks	W	133	115	15	14	W 1
+609	DEN	Oklahoma City Thunder	L	94	108	15	15	L 1
+610	DEN	Charlotte Hornets	L	107	115	15	16	L 2
+611	DEN	Los Angeles Clippers	W	103	100	16	16	W 1
+612	DEN	Golden State Warriors	W	89	86	17	16	W 2
+613	DEN	Houston Rockets	W	124	111	18	16	W 3
+614	DEN	Dallas Mavericks	L	89	103	18	17	L 1
+615	DEN	Utah Jazz	L	109	115	18	18	L 2
+616	DEN	Sacramento Kings	W	121	111	19	18	W 1
+617	DEN	Oklahoma City Thunder	W	99	95	20	18	W 2
+618	DEN	Los Angeles Clippers	L	85	87	20	19	L 1
+619	DEN	Portland Trail Blazers	W	140	108	21	19	W 1
+620	DEN	Los Angeles Lakers	W	133	96	22	19	W 2
+621	DEN	Utah Jazz	L	102	125	22	20	L 1
+622	DEN	Los Angeles Clippers	W	130	128	23	20	W 1
+623	DEN	Memphis Grizzlies	L	118	122	23	21	L 1
+624	DEN	Detroit Pistons	W	117	111	24	21	W 1
+625	DEN	Detroit Pistons	W	110	105	25	21	W 2
+626	DEN	Brooklyn Nets	W	124	118	26	21	W 3
+627	DEN	New Orleans Pelicans	W	116	105	27	21	W 4
+628	DEN	Milwaukee Bucks	W	136	100	28	21	W 5
+629	DEN	Minnesota Timberwolves	L	115	130	28	22	L 1
+630	DEN	Utah Jazz	L	104	108	28	23	L 2
+631	DEN	New Orleans Pelicans	L	105	113	28	24	L 3
+632	DEN	Brooklyn Nets	W	124	104	29	24	W 1
+633	DEN	New York Knicks	W	132	115	30	24	W 2
+634	DEN	Boston Celtics	L	102	108	30	25	L 1
+635	DEN	Toronto Raptors	W	110	109	31	25	W 1
+636	DEN	Orlando Magic	W	121	111	32	25	W 2
+637	DEN	Golden State Warriors	W	117	116	33	25	W 3
+638	DEN	Sacramento Kings	W	128	110	34	25	W 4
+639	DEN	Sacramento Kings	W	115	110	35	25	W 5
+640	DEN	Portland Trail Blazers	W	124	92	36	25	W 6
+641	DEN	Oklahoma City Thunder	L	107	119	36	26	L 1
+642	DEN	Houston Rockets	W	116	101	37	26	W 1
+643	DEN	New Orleans Pelicans	W	138	130	38	26	W 2
+644	DEN	Golden State Warriors	W	131	124	39	26	W 3
+645	DEN	Sacramento Kings	W	106	100	40	26	W 4
+646	DEN	Golden State Warriors	L	102	113	40	27	L 1
+647	DEN	Toronto Raptors	L	115	127	40	28	L 2
+648	DEN	Philadelphia 76ers	W	114	110	41	28	W 1
+649	DEN	Washington Wizards	W	127	109	42	28	W 2
+650	DEN	Cleveland Cavaliers	L	116	119	42	29	L 1
+651	DEN	Boston Celtics	L	104	124	42	30	L 2
+652	DEN	Los Angeles Clippers	W	127	115	43	30	W 1
+653	DEN	Phoenix Suns	L	130	140	43	31	L 1
+654	DEN	Oklahoma City Thunder	W	113	107	44	31	W 1
+655	DEN	Charlotte Hornets	W	113	109	45	31	W 2
+656	DEN	Indiana Pacers	W	125	118	46	31	W 3
+657	DEN	Minnesota Timberwolves	L	130	136	46	32	L 1
+658	DEN	Los Angeles Lakers	W	129	118	47	32	W 1
+659	DEN	San Antonio Spurs	L	97	116	47	33	L 1
+660	DEN	Memphis Grizzlies	W	122	109	48	33	W 1
+661	DEN	Los Angeles Lakers	L	141	146	48	34	L 1
+662	DET	Chicago Bulls	L	88	94	0	1	L 1
+663	DET	Chicago Bulls	L	82	97	0	2	L 2
+664	DET	Atlanta Hawks	L	104	122	0	3	L 3
+665	DET	Philadelphia 76ers	L	102	110	0	4	L 4
+666	DET	Orlando Magic	W	110	103	1	4	W 1
+667	DET	Brooklyn Nets	L	91	117	1	5	L 1
+668	DET	Milwaukee Bucks	L	89	117	1	6	L 2
+669	DET	Philadelphia 76ers	L	98	109	1	7	L 3
+670	DET	Brooklyn Nets	L	90	96	1	8	L 4
+671	DET	Houston Rockets	W	112	104	2	8	W 1
+672	DET	Cleveland Cavaliers	L	78	98	2	9	L 1
+673	DET	Toronto Raptors	W	127	121	3	9	W 1
+674	DET	Sacramento Kings	L	107	129	3	10	L 1
+675	DET	Indiana Pacers	W	97	89	4	10	W 1
+676	DET	Golden State Warriors	L	102	105	4	11	L 1
+677	DET	Los Angeles Lakers	L	116	121	4	12	L 2
+678	DET	Miami Heat	L	92	100	4	13	L 3
+679	DET	Milwaukee Bucks	L	93	114	4	14	L 4
+680	DET	Los Angeles Clippers	L	96	107	4	15	L 5
+681	DET	Los Angeles Lakers	L	106	110	4	16	L 6
+682	DET	Portland Trail Blazers	L	92	110	4	17	L 7
+683	DET	Phoenix Suns	L	103	114	4	18	L 8
+684	DET	Oklahoma City Thunder	L	103	114	4	19	L 9
+685	DET	Washington Wizards	L	116	119	4	20	L 10
+686	DET	New Orleans Pelicans	L	93	109	4	21	L 11
+687	DET	Brooklyn Nets	L	104	116	4	22	L 12
+688	DET	Indiana Pacers	L	113	122	4	23	L 13
+689	DET	Houston Rockets	L	107	116	4	24	L 14
+690	DET	Miami Heat	W	100	90	5	24	W 1
+691	DET	New York Knicks	L	91	105	5	25	L 1
+692	DET	Miami Heat	L	112	115	5	26	L 2
+693	DET	San Antonio Spurs	L	109	144	5	27	L 3
+694	DET	New York Knicks	L	85	94	5	28	L 4
+695	DET	San Antonio Spurs	W	117	116	6	28	W 1
+696	DET	Milwaukee Bucks	W	115	106	7	28	W 2
+697	DET	Charlotte Hornets	L	111	140	7	29	L 1
+698	DET	Memphis Grizzlies	L	88	118	7	30	L 2
+699	DET	Orlando Magic	W	97	92	8	30	W 1
+700	DET	Utah Jazz	W	126	116	9	30	W 2
+701	DET	Chicago Bulls	L	87	133	9	31	L 1
+702	DET	Toronto Raptors	W	103	87	10	31	W 1
+703	DET	Phoenix Suns	L	108	135	10	32	L 1
+704	DET	Golden State Warriors	L	86	102	10	33	L 2
+705	DET	Sacramento Kings	W	133	131	11	33	W 1
+706	DET	Utah Jazz	L	101	111	11	34	L 1
+707	DET	Denver Nuggets	L	111	117	11	35	L 2
+708	DET	Denver Nuggets	L	105	110	11	36	L 3
+709	DET	Orlando Magic	L	103	119	11	37	L 4
+710	DET	Cleveland Cavaliers	W	115	105	12	37	W 1
+711	DET	New Orleans Pelicans	L	101	111	12	38	L 1
+712	DET	Minnesota Timberwolves	L	117	128	12	39	L 2
+713	DET	Boston Celtics	L	93	102	12	40	L 3
+714	DET	Minnesota Timberwolves	L	105	118	12	41	L 4
+715	DET	Dallas Mavericks	L	86	116	12	42	L 5
+716	DET	Memphis Grizzlies	L	107	132	12	43	L 6
+717	DET	Charlotte Hornets	L	119	141	12	44	L 7
+718	DET	Washington Wizards	L	94	103	12	45	L 8
+719	DET	Boston Celtics	W	112	111	13	45	W 1
+720	DET	Cleveland Cavaliers	W	106	103	14	45	W 2
+721	DET	Boston Celtics	L	104	113	14	46	L 1
+722	DET	Charlotte Hornets	W	127	126	15	46	W 1
+723	DET	Washington Wizards	L	113	116	15	47	L 1
+724	DET	Toronto Raptors	W	108	106	16	47	W 1
+725	DET	Indiana Pacers	W	111	106	17	47	W 2
+726	DET	Atlanta Hawks	W	113	110	18	47	W 3
+727	DET	Chicago Bulls	L	108	114	18	48	L 1
+728	DET	Boston Celtics	L	103	114	18	49	L 2
+729	DET	Los Angeles Clippers	L	102	106	18	50	L 3
+730	DET	Miami Heat	L	98	105	18	51	L 4
+731	DET	Orlando Magic	W	134	120	19	51	W 1
+732	DET	Cleveland Cavaliers	L	109	113	19	52	L 1
+733	DET	Portland Trail Blazers	L	115	119	19	53	L 2
+734	DET	Atlanta Hawks	W	122	101	20	53	W 1
+735	DET	Washington Wizards	L	97	100	20	54	L 1
+736	DET	New York Knicks	L	102	104	20	55	L 2
+737	DET	Brooklyn Nets	L	123	130	20	56	L 3
+738	DET	Philadelphia 76ers	W	102	94	21	56	W 1
+739	DET	Oklahoma City Thunder	W	110	101	22	56	W 2
+740	DET	Indiana Pacers	W	121	117	23	56	W 3
+741	DET	Dallas Mavericks	L	113	131	23	57	L 1
+742	DET	Milwaukee Bucks	L	101	131	23	58	L 2
+743	DET	Philadelphia 76ers	L	106	118	23	59	L 3
+744	GSW	Los Angeles Lakers	W	121	114	1	0	W 1
+745	GSW	Los Angeles Clippers	W	115	113	2	0	W 2
+746	GSW	Sacramento Kings	W	119	107	3	0	W 3
+747	GSW	Oklahoma City Thunder	W	106	98	4	0	W 4
+748	GSW	Memphis Grizzlies	L	101	104	4	1	L 1
+749	GSW	Oklahoma City Thunder	W	103	82	5	1	W 1
+750	GSW	Charlotte Hornets	W	114	92	6	1	W 2
+751	GSW	New Orleans Pelicans	W	126	85	7	1	W 3
+752	GSW	Houston Rockets	W	120	107	8	1	W 4
+753	GSW	Atlanta Hawks	W	127	113	9	1	W 5
+754	GSW	Minnesota Timberwolves	W	123	110	10	1	W 6
+755	GSW	Chicago Bulls	W	119	93	11	1	W 7
+756	GSW	Charlotte Hornets	L	102	106	11	2	L 1
+757	GSW	Brooklyn Nets	W	117	99	12	2	W 1
+758	GSW	Cleveland Cavaliers	W	104	89	13	2	W 2
+759	GSW	Detroit Pistons	W	105	102	14	2	W 3
+760	GSW	Toronto Raptors	W	119	104	15	2	W 4
+761	GSW	Philadelphia 76ers	W	116	96	16	2	W 5
+762	GSW	Portland Trail Blazers	W	118	103	17	2	W 6
+763	GSW	Los Angeles Clippers	W	105	90	18	2	W 7
+764	GSW	Phoenix Suns	L	96	104	18	3	L 1
+765	GSW	Phoenix Suns	W	118	96	19	3	W 1
+766	GSW	San Antonio Spurs	L	107	112	19	4	L 1
+767	GSW	Orlando Magic	W	126	95	20	4	W 1
+768	GSW	Portland Trail Blazers	W	104	94	21	4	W 2
+769	GSW	Philadelphia 76ers	L	93	102	21	5	L 1
+770	GSW	Indiana Pacers	W	102	100	22	5	W 1
+771	GSW	New York Knicks	W	105	96	23	5	W 2
+772	GSW	Boston Celtics	W	111	107	24	5	W 3
+773	GSW	Toronto Raptors	L	100	119	24	6	L 1
+774	GSW	Sacramento Kings	W	113	98	25	6	W 1
+775	GSW	Memphis Grizzlies	W	113	104	26	6	W 2
+776	GSW	Phoenix Suns	W	116	107	27	6	W 3
+777	GSW	Denver Nuggets	L	86	89	27	7	L 1
+778	GSW	Utah Jazz	W	123	116	28	7	W 1
+779	GSW	Miami Heat	W	115	108	29	7	W 2
+780	GSW	Dallas Mavericks	L	82	99	29	8	L 1
+781	GSW	New Orleans Pelicans	L	96	101	29	9	L 2
+782	GSW	Cleveland Cavaliers	W	96	82	30	9	W 1
+783	GSW	Memphis Grizzlies	L	108	116	30	10	L 1
+784	GSW	Milwaukee Bucks	L	99	118	30	11	L 2
+785	GSW	Chicago Bulls	W	138	96	31	11	W 1
+786	GSW	Minnesota Timberwolves	L	99	119	31	12	L 1
+787	GSW	Detroit Pistons	W	102	86	32	12	W 1
+788	GSW	Indiana Pacers	L	117	121	32	13	L 1
+789	GSW	Houston Rockets	W	105	103	33	13	W 1
+790	GSW	Utah Jazz	W	94	92	34	13	W 2
+791	GSW	Dallas Mavericks	W	130	92	35	13	W 3
+792	GSW	Minnesota Timberwolves	W	124	115	36	13	W 4
+793	GSW	Brooklyn Nets	W	110	106	37	13	W 5
+794	GSW	Houston Rockets	W	122	108	38	13	W 6
+795	GSW	San Antonio Spurs	W	124	120	39	13	W 7
+796	GSW	Sacramento Kings	W	126	114	40	13	W 8
+797	GSW	Oklahoma City Thunder	W	110	98	41	13	W 9
+798	GSW	Utah Jazz	L	85	111	41	14	L 1
+799	GSW	New York Knicks	L	114	116	41	15	L 2
+800	GSW	Los Angeles Lakers	W	117	115	42	15	W 1
+801	GSW	Los Angeles Clippers	L	104	119	42	16	L 1
+802	GSW	Denver Nuggets	L	116	117	42	17	L 2
+803	GSW	Portland Trail Blazers	W	132	95	43	17	W 1
+804	GSW	Dallas Mavericks	L	101	107	43	18	L 1
+805	GSW	Minnesota Timberwolves	L	114	129	43	19	L 2
+806	GSW	Dallas Mavericks	L	113	122	43	20	L 3
+807	GSW	Los Angeles Lakers	L	116	124	43	21	L 4
+808	GSW	Denver Nuggets	L	124	131	43	22	L 5
+809	GSW	Los Angeles Clippers	W	112	97	44	22	W 1
+810	GSW	Denver Nuggets	W	113	102	45	22	W 2
+811	GSW	Milwaukee Bucks	W	122	109	46	22	W 3
+812	GSW	Washington Wizards	W	126	112	47	22	W 4
+813	GSW	Boston Celtics	L	88	110	47	23	L 1
+814	GSW	San Antonio Spurs	L	108	110	47	24	L 2
+815	GSW	Orlando Magic	L	90	94	47	25	L 3
+816	GSW	Miami Heat	W	118	104	48	25	W 1
+817	GSW	Atlanta Hawks	L	110	121	48	26	L 1
+818	GSW	Washington Wizards	L	115	123	48	27	L 2
+819	GSW	Memphis Grizzlies	L	95	123	48	28	L 3
+820	GSW	Phoenix Suns	L	103	107	48	29	L 4
+821	GSW	Utah Jazz	W	111	107	49	29	W 1
+822	GSW	Sacramento Kings	W	109	90	50	29	W 2
+823	GSW	Los Angeles Lakers	W	128	112	51	29	W 3
+824	GSW	San Antonio Spurs	W	100	94	52	29	W 4
+825	GSW	New Orleans Pelicans	W	128	107	53	29	W 5
+826	HOU	Minnesota Timberwolves	L	106	124	0	1	L 1
+827	HOU	Oklahoma City Thunder	W	124	91	1	1	W 1
+828	HOU	Boston Celtics	L	97	107	1	2	L 1
+829	HOU	Dallas Mavericks	L	106	116	1	3	L 2
+830	HOU	Utah Jazz	L	91	122	1	4	L 3
+831	HOU	Los Angeles Lakers	L	85	95	1	5	L 4
+832	HOU	Los Angeles Lakers	L	117	119	1	6	L 5
+833	HOU	Phoenix Suns	L	111	123	1	7	L 6
+834	HOU	Denver Nuggets	L	94	95	1	8	L 7
+835	HOU	Golden State Warriors	L	107	120	1	9	L 8
+836	HOU	Detroit Pistons	L	104	112	1	10	L 9
+837	HOU	Portland Trail Blazers	L	92	104	1	11	L 10
+838	HOU	Phoenix Suns	L	89	115	1	12	L 11
+839	HOU	Memphis Grizzlies	L	102	136	1	13	L 12
+840	HOU	Oklahoma City Thunder	L	89	101	1	14	L 13
+841	HOU	New York Knicks	L	99	106	1	15	L 14
+842	HOU	Boston Celtics	L	90	108	1	16	L 15
+843	HOU	Chicago Bulls	W	118	113	2	16	W 1
+844	HOU	Charlotte Hornets	W	146	143	3	16	W 2
+845	HOU	Oklahoma City Thunder	W	102	89	4	16	W 3
+846	HOU	Oklahoma City Thunder	W	114	110	5	16	W 4
+847	HOU	Orlando Magic	W	118	116	6	16	W 5
+848	HOU	New Orleans Pelicans	W	118	108	7	16	W 6
+849	HOU	Brooklyn Nets	W	114	104	8	16	W 7
+850	HOU	Milwaukee Bucks	L	114	123	8	17	L 1
+851	HOU	Memphis Grizzlies	L	106	113	8	18	L 2
+852	HOU	Atlanta Hawks	W	132	126	9	18	W 1
+853	HOU	Cleveland Cavaliers	L	89	124	9	19	L 1
+854	HOU	New York Knicks	L	103	116	9	20	L 2
+855	HOU	Detroit Pistons	W	116	107	10	20	W 1
+856	HOU	Chicago Bulls	L	118	133	10	21	L 1
+857	HOU	Milwaukee Bucks	L	106	126	10	22	L 2
+858	HOU	Indiana Pacers	L	106	118	10	23	L 3
+859	HOU	Charlotte Hornets	L	99	123	10	24	L 4
+860	HOU	Los Angeles Lakers	L	123	132	10	25	L 5
+861	HOU	Miami Heat	L	110	120	10	26	L 6
+862	HOU	Denver Nuggets	L	111	124	10	27	L 7
+863	HOU	Philadelphia 76ers	L	113	133	10	28	L 8
+864	HOU	Washington Wizards	W	114	111	11	28	W 1
+865	HOU	Dallas Mavericks	L	106	130	11	29	L 1
+866	HOU	Minnesota Timberwolves	L	123	141	11	30	L 2
+867	HOU	Philadelphia 76ers	L	91	111	11	31	L 3
+868	HOU	San Antonio Spurs	W	128	124	12	31	W 1
+869	HOU	Sacramento Kings	L	114	126	12	32	L 1
+870	HOU	Sacramento Kings	W	118	112	13	32	W 1
+871	HOU	Utah Jazz	W	116	111	14	32	W 2
+872	HOU	Golden State Warriors	L	103	105	14	33	L 1
+873	HOU	San Antonio Spurs	L	104	134	14	34	L 2
+874	HOU	Portland Trail Blazers	L	110	125	14	35	L 3
+875	HOU	Golden State Warriors	L	108	122	14	36	L 4
+876	HOU	Cleveland Cavaliers	W	115	104	15	36	W 1
+877	HOU	San Antonio Spurs	L	106	131	15	37	L 1
+878	HOU	New Orleans Pelicans	L	107	120	15	38	L 2
+879	HOU	New Orleans Pelicans	L	97	110	15	39	L 3
+880	HOU	Toronto Raptors	L	120	139	15	40	L 4
+881	HOU	Utah Jazz	L	101	135	15	41	L 5
+882	HOU	Phoenix Suns	L	121	124	15	42	L 6
+883	HOU	Los Angeles Clippers	L	111	142	15	43	L 7
+884	HOU	Orlando Magic	L	111	119	15	44	L 8
+885	HOU	Los Angeles Clippers	L	98	99	15	45	L 9
+886	HOU	Los Angeles Clippers	L	100	113	15	46	L 10
+887	HOU	Utah Jazz	L	127	132	15	47	L 11
+888	HOU	Denver Nuggets	L	101	116	15	48	L 12
+889	HOU	Memphis Grizzlies	W	123	112	16	48	W 1
+890	HOU	Miami Heat	L	106	123	16	49	L 1
+891	HOU	Los Angeles Lakers	W	139	130	17	49	W 1
+892	HOU	Dallas Mavericks	L	100	113	17	50	L 1
+893	HOU	New Orleans Pelicans	L	105	130	17	51	L 2
+894	HOU	Phoenix Suns	L	112	129	17	52	L 3
+895	HOU	Indiana Pacers	L	118	121	17	53	L 4
+896	HOU	Memphis Grizzlies	L	98	122	17	54	L 5
+897	HOU	Washington Wizards	W	115	97	18	54	W 1
+898	HOU	Dallas Mavericks	L	91	110	18	55	L 1
+899	HOU	Portland Trail Blazers	W	125	106	19	55	W 1
+900	HOU	Portland Trail Blazers	W	115	98	20	55	W 2
+901	HOU	San Antonio Spurs	L	120	123	20	56	L 1
+902	HOU	Sacramento Kings	L	118	121	20	57	L 2
+903	HOU	Sacramento Kings	L	117	122	20	58	L 3
+904	HOU	Minnesota Timberwolves	L	132	139	20	59	L 4
+905	HOU	Brooklyn Nets	L	105	118	20	60	L 5
+906	HOU	Toronto Raptors	L	115	117	20	61	L 6
+907	HOU	Atlanta Hawks	L	114	130	20	62	L 7
+908	IND	Charlotte Hornets	L	122	123	0	1	L 1
+909	IND	Washington Wizards	L	134	135	0	2	L 2
+910	IND	Miami Heat	W	102	91	1	2	W 1
+911	IND	Milwaukee Bucks	L	109	119	1	3	L 1
+912	IND	Toronto Raptors	L	100	118	1	4	L 2
+913	IND	Brooklyn Nets	L	98	105	1	5	L 3
+914	IND	Toronto Raptors	L	94	97	1	6	L 4
+915	IND	San Antonio Spurs	W	131	118	2	6	W 1
+916	IND	New York Knicks	W	111	98	3	6	W 2
+917	IND	Portland Trail Blazers	L	106	110	3	7	L 1
+918	IND	Sacramento Kings	W	94	91	4	7	W 1
+919	IND	Denver Nuggets	L	98	101	4	8	L 1
+920	IND	Utah Jazz	W	111	100	5	8	W 1
+921	IND	Philadelphia 76ers	W	118	113	6	8	W 2
+922	IND	New York Knicks	L	84	92	6	9	L 1
+923	IND	Detroit Pistons	L	89	97	6	10	L 2
+924	IND	Charlotte Hornets	L	118	121	6	11	L 3
+925	IND	New Orleans Pelicans	W	111	94	7	11	W 1
+926	IND	Chicago Bulls	W	109	77	8	11	W 2
+927	IND	Los Angeles Lakers	L	116	124	8	12	L 1
+928	IND	Toronto Raptors	W	114	97	9	12	W 1
+929	IND	Milwaukee Bucks	L	100	118	9	13	L 1
+930	IND	Minnesota Timberwolves	L	98	100	9	14	L 2
+931	IND	Atlanta Hawks	L	111	114	9	15	L 3
+932	IND	Miami Heat	L	104	113	9	16	L 4
+933	IND	Washington Wizards	W	116	110	10	16	W 1
+934	IND	New York Knicks	W	122	102	11	16	W 2
+935	IND	Dallas Mavericks	W	106	93	12	16	W 3
+936	IND	Golden State Warriors	L	100	102	12	17	L 1
+937	IND	Milwaukee Bucks	L	99	114	12	18	L 2
+938	IND	Detroit Pistons	W	122	113	13	18	W 1
+939	IND	Miami Heat	L	96	125	13	19	L 1
+940	IND	Houston Rockets	W	118	106	14	19	W 1
+941	IND	Chicago Bulls	L	105	113	14	20	L 1
+942	IND	Charlotte Hornets	L	108	116	14	21	L 2
+943	IND	Chicago Bulls	L	106	108	14	22	L 3
+944	IND	Cleveland Cavaliers	L	104	108	14	23	L 4
+945	IND	New York Knicks	L	94	104	14	24	L 5
+946	IND	Brooklyn Nets	L	121	129	14	25	L 6
+947	IND	Utah Jazz	W	125	113	15	25	W 1
+948	IND	Boston Celtics	L	98	101	15	26	L 1
+949	IND	Boston Celtics	L	100	119	15	27	L 2
+950	IND	Phoenix Suns	L	94	112	15	28	L 3
+951	IND	Los Angeles Clippers	L	133	139	15	29	L 4
+952	IND	Los Angeles Lakers	W	111	104	16	29	W 1
+953	IND	Golden State Warriors	W	121	117	17	29	W 2
+954	IND	Phoenix Suns	L	103	113	17	30	L 1
+955	IND	New Orleans Pelicans	L	113	117	17	31	L 2
+956	IND	Charlotte Hornets	L	126	158	17	32	L 3
+957	IND	Oklahoma City Thunder	W	113	110	18	32	W 1
+958	IND	Dallas Mavericks	L	105	132	18	33	L 1
+959	IND	Los Angeles Clippers	W	122	116	19	33	W 1
+960	IND	Orlando Magic	L	118	119	19	34	L 1
+961	IND	Chicago Bulls	L	115	122	19	35	L 2
+962	IND	Cleveland Cavaliers	L	85	98	19	36	L 3
+963	IND	Atlanta Hawks	L	112	133	19	37	L 4
+964	IND	Cleveland Cavaliers	L	113	120	19	38	L 5
+965	IND	Minnesota Timberwolves	L	120	129	19	39	L 6
+966	IND	Milwaukee Bucks	L	119	128	19	40	L 7
+967	IND	Washington Wizards	W	113	108	20	40	W 1
+968	IND	Oklahoma City Thunder	L	125	129	20	41	L 1
+969	IND	Boston Celtics	W	128	107	21	41	W 1
+970	IND	Orlando Magic	L	103	119	21	42	L 1
+971	IND	Orlando Magic	W	122	114	22	42	W 1
+972	IND	Detroit Pistons	L	106	111	22	43	L 1
+973	IND	Washington Wizards	L	123	133	22	44	L 2
+974	IND	Cleveland Cavaliers	L	124	127	22	45	L 3
+975	IND	San Antonio Spurs	W	119	108	23	45	W 1
+976	IND	Atlanta Hawks	L	128	131	23	46	L 1
+977	IND	Memphis Grizzlies	L	102	135	23	47	L 2
+978	IND	Houston Rockets	W	121	118	24	47	W 1
+979	IND	Portland Trail Blazers	W	129	98	25	47	W 2
+980	IND	Sacramento Kings	L	109	110	25	48	L 1
+981	IND	Memphis Grizzlies	L	103	133	25	49	L 2
+982	IND	Toronto Raptors	L	91	131	25	50	L 3
+983	IND	Atlanta Hawks	L	123	132	25	51	L 4
+984	IND	Denver Nuggets	L	118	125	25	52	L 5
+985	IND	Boston Celtics	L	123	128	25	53	L 6
+986	IND	Detroit Pistons	L	117	121	25	54	L 7
+987	IND	Philadelphia 76ers	L	122	131	25	55	L 8
+988	IND	Philadelphia 76ers	L	120	133	25	56	L 9
+989	IND	Brooklyn Nets	L	126	134	25	57	L 10
+990	LAC	Golden State Warriors	L	113	115	0	1	L 1
+991	LAC	Memphis Grizzlies	L	114	120	0	2	L 2
+992	LAC	Portland Trail Blazers	W	116	86	1	2	W 1
+993	LAC	Cleveland Cavaliers	L	79	92	1	3	L 1
+994	LAC	Portland Trail Blazers	L	92	111	1	4	L 2
+995	LAC	Oklahoma City Thunder	W	99	94	2	4	W 1
+996	LAC	Minnesota Timberwolves	W	126	115	3	4	W 2
+997	LAC	Minnesota Timberwolves	W	104	84	4	4	W 3
+998	LAC	Charlotte Hornets	W	120	106	5	4	W 4
+999	LAC	Portland Trail Blazers	W	117	109	6	4	W 5
+1000	LAC	Miami Heat	W	112	109	7	4	W 6
+1001	LAC	Minnesota Timberwolves	W	129	102	8	4	W 7
+1002	LAC	Chicago Bulls	L	90	100	8	5	L 1
+1003	LAC	San Antonio Spurs	W	106	92	9	5	W 1
+1004	LAC	Memphis Grizzlies	L	108	120	9	6	L 1
+1005	LAC	New Orleans Pelicans	L	81	94	9	7	L 2
+1006	LAC	Dallas Mavericks	W	97	91	10	7	W 1
+1007	LAC	Dallas Mavericks	L	104	112	10	8	L 1
+1008	LAC	Detroit Pistons	W	107	96	11	8	W 1
+1009	LAC	Golden State Warriors	L	90	105	11	9	L 1
+1010	LAC	New Orleans Pelicans	L	104	123	11	10	L 2
+1011	LAC	Sacramento Kings	L	115	124	11	11	L 3
+1012	LAC	Los Angeles Lakers	W	119	115	12	11	W 1
+1013	LAC	Sacramento Kings	L	99	104	12	12	L 1
+1014	LAC	Portland Trail Blazers	W	102	90	13	12	W 1
+1015	LAC	Boston Celtics	W	114	111	14	12	W 2
+1016	LAC	Orlando Magic	W	106	104	15	12	W 3
+1017	LAC	Phoenix Suns	W	111	95	16	12	W 4
+1018	LAC	Utah Jazz	L	103	124	16	13	L 1
+1019	LAC	Oklahoma City Thunder	L	103	104	16	14	L 2
+1020	LAC	San Antonio Spurs	L	92	116	16	15	L 3
+1021	LAC	Sacramento Kings	W	105	89	17	15	W 1
+1022	LAC	Denver Nuggets	L	100	103	17	16	L 1
+1023	LAC	Brooklyn Nets	L	108	124	17	17	L 2
+1024	LAC	Boston Celtics	W	91	82	18	17	W 1
+1025	LAC	Toronto Raptors	L	108	116	18	18	L 1
+1026	LAC	Brooklyn Nets	W	120	116	19	18	W 1
+1027	LAC	Minnesota Timberwolves	L	104	122	19	19	L 1
+1028	LAC	Phoenix Suns	L	89	106	19	20	L 2
+1029	LAC	Memphis Grizzlies	L	108	123	19	21	L 3
+1030	LAC	Atlanta Hawks	W	106	93	20	21	W 1
+1031	LAC	Denver Nuggets	W	87	85	21	21	W 2
+1032	LAC	New Orleans Pelicans	L	89	113	21	22	L 1
+1033	LAC	San Antonio Spurs	L	94	101	21	23	L 2
+1034	LAC	Indiana Pacers	W	139	133	22	23	W 1
+1035	LAC	Denver Nuggets	L	128	130	22	24	L 1
+1036	LAC	Philadelphia 76ers	W	102	101	23	24	W 1
+1037	LAC	New York Knicks	L	102	110	23	25	L 1
+1038	LAC	Washington Wizards	W	116	115	24	25	W 1
+1039	LAC	Orlando Magic	W	111	102	25	25	W 2
+1040	LAC	Miami Heat	L	114	121	25	26	L 1
+1041	LAC	Charlotte Hornets	W	115	90	26	26	W 1
+1042	LAC	Indiana Pacers	L	116	122	26	27	L 1
+1043	LAC	Los Angeles Lakers	W	111	110	27	27	W 1
+1044	LAC	Milwaukee Bucks	L	113	137	27	28	L 1
+1045	LAC	Memphis Grizzlies	L	109	135	27	29	L 2
+1046	LAC	Dallas Mavericks	L	105	112	27	30	L 3
+1047	LAC	Dallas Mavericks	W	99	97	28	30	W 1
+1048	LAC	Golden State Warriors	W	119	104	29	30	W 2
+1049	LAC	Phoenix Suns	L	96	103	29	31	L 1
+1050	LAC	Houston Rockets	W	142	111	30	31	W 1
+1051	LAC	Los Angeles Lakers	W	105	102	31	31	W 2
+1052	LAC	Houston Rockets	W	99	98	32	31	W 3
+1053	LAC	Houston Rockets	W	113	100	33	31	W 4
+1054	LAC	Los Angeles Lakers	W	132	111	34	31	W 5
+1055	LAC	New York Knicks	L	93	116	34	32	L 1
+1056	LAC	Golden State Warriors	L	97	112	34	33	L 2
+1057	LAC	Washington Wizards	W	115	109	35	33	W 1
+1058	LAC	Atlanta Hawks	L	106	112	35	34	L 1
+1059	LAC	Detroit Pistons	W	106	102	36	34	W 1
+1060	LAC	Cleveland Cavaliers	L	111	120	36	35	L 1
+1061	LAC	Toronto Raptors	L	100	103	36	36	L 2
+1062	LAC	Utah Jazz	L	92	121	36	37	L 3
+1063	LAC	Denver Nuggets	L	115	127	36	38	L 4
+1064	LAC	Philadelphia 76ers	L	97	122	36	39	L 5
+1065	LAC	Utah Jazz	W	121	115	37	39	W 1
+1066	LAC	Chicago Bulls	L	130	135	37	40	L 1
+1067	LAC	Milwaukee Bucks	W	153	119	38	40	W 1
+1068	LAC	New Orleans Pelicans	W	119	100	39	40	W 2
+1069	LAC	Phoenix Suns	W	113	109	40	40	W 3
+1070	LAC	Sacramento Kings	W	117	98	41	40	W 4
+1071	LAC	Oklahoma City Thunder	W	138	88	42	40	W 5
+1072	LAC	Minnesota Timberwolves	L	104	109	42	41	L 1
+1073	LAC	New Orleans Pelicans	L	101	105	42	42	L 2
+1074	LAL	Golden State Warriors	L	114	121	0	1	L 1
+1075	LAL	Phoenix Suns	L	105	115	0	2	L 2
+1076	LAL	Memphis Grizzlies	W	121	118	1	2	W 1
+1077	LAL	San Antonio Spurs	W	125	121	2	2	W 2
+1078	LAL	Oklahoma City Thunder	L	115	123	2	3	L 1
+1079	LAL	Cleveland Cavaliers	W	113	101	3	3	W 1
+1080	LAL	Houston Rockets	W	95	85	4	3	W 2
+1081	LAL	Houston Rockets	W	119	117	5	3	W 3
+1082	LAL	Oklahoma City Thunder	L	104	107	5	4	L 1
+1083	LAL	Portland Trail Blazers	L	90	105	5	5	L 2
+1084	LAL	Charlotte Hornets	W	126	123	6	5	W 1
+1085	LAL	Miami Heat	W	120	117	7	5	W 2
+1086	LAL	Minnesota Timberwolves	L	83	107	7	6	L 1
+1087	LAL	San Antonio Spurs	W	114	106	8	6	W 1
+1088	LAL	Chicago Bulls	L	103	121	8	7	L 1
+1089	LAL	Milwaukee Bucks	L	102	109	8	8	L 2
+1090	LAL	Boston Celtics	L	108	130	8	9	L 3
+1091	LAL	Detroit Pistons	W	121	116	9	9	W 1
+1092	LAL	New York Knicks	L	100	106	9	10	L 1
+1093	LAL	Indiana Pacers	W	124	116	10	10	W 1
+1094	LAL	Sacramento Kings	L	137	141	10	11	L 1
+1095	LAL	Detroit Pistons	W	110	106	11	11	W 1
+1096	LAL	Sacramento Kings	W	117	92	12	11	W 2
+1097	LAL	Los Angeles Clippers	L	115	119	12	12	L 1
+1098	LAL	Boston Celtics	W	117	102	13	12	W 1
+1099	LAL	Memphis Grizzlies	L	95	108	13	13	L 1
+1100	LAL	Oklahoma City Thunder	W	116	95	14	13	W 1
+1101	LAL	Orlando Magic	W	106	94	15	13	W 2
+1102	LAL	Dallas Mavericks	W	107	104	16	13	W 3
+1103	LAL	Minnesota Timberwolves	L	92	110	16	14	L 1
+1104	LAL	Chicago Bulls	L	110	115	16	15	L 2
+1105	LAL	Phoenix Suns	L	90	108	16	16	L 3
+1106	LAL	San Antonio Spurs	L	110	138	16	17	L 4
+1107	LAL	Brooklyn Nets	L	115	122	16	18	L 5
+1108	LAL	Houston Rockets	W	132	123	17	18	W 1
+1109	LAL	Memphis Grizzlies	L	99	104	17	19	L 1
+1110	LAL	Portland Trail Blazers	W	139	106	18	19	W 1
+1111	LAL	Minnesota Timberwolves	W	108	103	19	19	W 2
+1112	LAL	Sacramento Kings	W	122	114	20	19	W 3
+1113	LAL	Atlanta Hawks	W	134	118	21	19	W 4
+1114	LAL	Memphis Grizzlies	L	119	127	21	20	L 1
+1115	LAL	Sacramento Kings	L	116	125	21	21	L 2
+1116	LAL	Denver Nuggets	L	96	133	21	22	L 3
+1117	LAL	Utah Jazz	W	101	95	22	22	W 1
+1118	LAL	Indiana Pacers	L	104	111	22	23	L 1
+1119	LAL	Orlando Magic	W	116	105	23	23	W 1
+1120	LAL	Miami Heat	L	107	113	23	24	L 1
+1121	LAL	Brooklyn Nets	W	106	96	24	24	W 1
+1122	LAL	Philadelphia 76ers	L	87	105	24	25	L 1
+1123	LAL	Charlotte Hornets	L	114	117	24	26	L 2
+1124	LAL	Atlanta Hawks	L	121	129	24	27	L 3
+1125	LAL	Portland Trail Blazers	W	99	94	25	27	W 1
+1126	LAL	Los Angeles Clippers	L	110	111	25	28	L 1
+1127	LAL	New York Knicks	W	122	115	26	28	W 1
+1128	LAL	Milwaukee Bucks	L	116	131	26	29	L 1
+1129	LAL	Portland Trail Blazers	L	105	107	26	30	L 2
+1130	LAL	Golden State Warriors	L	115	117	26	31	L 3
+1131	LAL	Utah Jazz	W	106	101	27	31	W 1
+1132	LAL	Los Angeles Clippers	L	102	105	27	32	L 1
+1133	LAL	New Orleans Pelicans	L	95	123	27	33	L 2
+1134	LAL	Dallas Mavericks	L	104	109	27	34	L 3
+1135	LAL	Los Angeles Clippers	L	111	132	27	35	L 4
+1136	LAL	Golden State Warriors	W	124	116	28	35	W 1
+1137	LAL	San Antonio Spurs	L	110	117	28	36	L 1
+1138	LAL	Houston Rockets	L	130	139	28	37	L 2
+1139	LAL	Washington Wizards	W	122	109	29	37	W 1
+1140	LAL	Phoenix Suns	L	111	140	29	38	L 1
+1141	LAL	Toronto Raptors	L	103	114	29	39	L 2
+1142	LAL	Minnesota Timberwolves	L	104	124	29	40	L 3
+1143	LAL	Toronto Raptors	W	128	123	30	40	W 1
+1144	LAL	Washington Wizards	L	119	127	30	41	L 1
+1145	LAL	Cleveland Cavaliers	W	131	120	31	41	W 1
+1146	LAL	Philadelphia 76ers	L	121	126	31	42	L 1
+1147	LAL	New Orleans Pelicans	L	108	116	31	43	L 2
+1148	LAL	Dallas Mavericks	L	110	128	31	44	L 3
+1149	LAL	Utah Jazz	L	109	122	31	45	L 4
+1150	LAL	New Orleans Pelicans	L	111	114	31	46	L 5
+1151	LAL	Denver Nuggets	L	118	129	31	47	L 6
+1152	LAL	Phoenix Suns	L	110	121	31	48	L 7
+1153	LAL	Golden State Warriors	L	112	128	31	49	L 8
+1154	LAL	Oklahoma City Thunder	W	120	101	32	49	W 1
+1155	LAL	Denver Nuggets	W	146	141	33	49	W 2
+1156	MEM	Cleveland Cavaliers	W	132	121	1	0	W 1
+1157	MEM	Los Angeles Clippers	W	120	114	2	0	W 2
+1158	MEM	Los Angeles Lakers	L	118	121	2	1	L 1
+1159	MEM	Portland Trail Blazers	L	96	116	2	2	L 2
+1160	MEM	Golden State Warriors	W	104	101	3	2	W 1
+1161	MEM	Miami Heat	L	103	129	3	3	L 1
+1162	MEM	Denver Nuggets	W	106	97	4	3	W 1
+1163	MEM	Denver Nuggets	W	108	106	5	3	W 2
+1164	MEM	Washington Wizards	L	87	115	5	4	L 1
+1165	MEM	Minnesota Timberwolves	W	125	118	6	4	W 1
+1166	MEM	Charlotte Hornets	L	108	118	6	5	L 1
+1167	MEM	Phoenix Suns	L	94	119	6	6	L 2
+1168	MEM	New Orleans Pelicans	L	101	112	6	7	L 3
+1169	MEM	Houston Rockets	W	136	102	7	7	W 1
+1170	MEM	Los Angeles Clippers	W	120	108	8	7	W 2
+1171	MEM	Minnesota Timberwolves	L	95	138	8	8	L 1
+1172	MEM	Utah Jazz	W	119	118	9	8	W 1
+1173	MEM	Toronto Raptors	L	113	126	9	9	L 1
+1174	MEM	Atlanta Hawks	L	100	132	9	10	L 2
+1175	MEM	Sacramento Kings	W	128	101	10	10	W 1
+1176	MEM	Toronto Raptors	W	98	91	11	10	W 2
+1177	MEM	Oklahoma City Thunder	W	152	79	12	10	W 3
+1178	MEM	Dallas Mavericks	W	97	90	13	10	W 4
+1179	MEM	Miami Heat	W	105	90	14	10	W 5
+1180	MEM	Dallas Mavericks	L	96	104	14	11	L 1
+1181	MEM	Los Angeles Lakers	W	108	95	15	11	W 1
+1182	MEM	Houston Rockets	W	113	106	16	11	W 2
+1183	MEM	Philadelphia 76ers	W	126	91	17	11	W 3
+1184	MEM	Portland Trail Blazers	W	113	103	18	11	W 4
+1185	MEM	Sacramento Kings	W	124	105	19	11	W 5
+1186	MEM	Portland Trail Blazers	L	100	105	19	12	L 1
+1187	MEM	Oklahoma City Thunder	L	99	102	19	13	L 2
+1188	MEM	Golden State Warriors	L	104	113	19	14	L 3
+1189	MEM	Sacramento Kings	W	127	102	20	14	W 1
+1190	MEM	Phoenix Suns	W	114	113	21	14	W 2
+1191	MEM	Los Angeles Lakers	W	104	99	22	14	W 3
+1192	MEM	San Antonio Spurs	W	118	105	23	14	W 4
+1193	MEM	Brooklyn Nets	W	118	104	24	14	W 5
+1194	MEM	Cleveland Cavaliers	W	110	106	25	14	W 6
+1195	MEM	Detroit Pistons	W	118	88	26	14	W 7
+1196	MEM	Los Angeles Clippers	W	123	108	27	14	W 8
+1197	MEM	Los Angeles Lakers	W	127	119	28	14	W 9
+1198	MEM	Golden State Warriors	W	116	108	29	14	W 10
+1199	MEM	Minnesota Timberwolves	W	116	108	30	14	W 11
+1200	MEM	Dallas Mavericks	L	85	112	30	15	L 1
+1201	MEM	Chicago Bulls	W	119	106	31	15	W 1
+1202	MEM	Milwaukee Bucks	L	114	126	31	16	L 1
+1203	MEM	Denver Nuggets	W	122	118	32	16	W 1
+1204	MEM	Dallas Mavericks	L	91	104	32	17	L 1
+1205	MEM	San Antonio Spurs	W	118	110	33	17	W 1
+1206	MEM	Utah Jazz	W	119	109	34	17	W 2
+1207	MEM	Washington Wizards	W	115	95	35	17	W 3
+1208	MEM	Philadelphia 76ers	L	119	122	35	18	L 1
+1209	MEM	New York Knicks	W	120	108	36	18	W 1
+1210	MEM	Orlando Magic	W	135	115	37	18	W 2
+1211	MEM	Los Angeles Clippers	W	135	109	38	18	W 3
+1212	MEM	Detroit Pistons	W	132	107	39	18	W 4
+1213	MEM	Charlotte Hornets	W	125	118	40	18	W 5
+1214	MEM	New Orleans Pelicans	W	121	109	41	18	W 6
+1215	MEM	Portland Trail Blazers	L	119	123	41	19	L 1
+1216	MEM	Minnesota Timberwolves	L	114	119	41	20	L 2
+1217	MEM	Chicago Bulls	W	116	110	42	20	W 1
+1218	MEM	San Antonio Spurs	W	118	105	43	20	W 2
+1219	MEM	Boston Celtics	L	107	120	43	21	L 1
+1220	MEM	Orlando Magic	W	124	96	44	21	W 1
+1221	MEM	Houston Rockets	L	112	123	44	22	L 1
+1222	MEM	New Orleans Pelicans	W	132	111	45	22	W 1
+1223	MEM	New York Knicks	W	118	114	46	22	W 2
+1224	MEM	Oklahoma City Thunder	W	125	118	47	22	W 3
+1225	MEM	Indiana Pacers	W	135	102	48	22	W 4
+1226	MEM	Atlanta Hawks	L	105	120	48	23	L 1
+1227	MEM	Houston Rockets	W	122	98	49	23	W 1
+1228	MEM	Brooklyn Nets	W	132	120	50	23	W 2
+1229	MEM	Indiana Pacers	W	133	103	51	23	W 3
+1230	MEM	Milwaukee Bucks	W	127	102	52	23	W 4
+1231	MEM	Golden State Warriors	W	123	95	53	23	W 5
+1232	MEM	San Antonio Spurs	W	112	111	54	23	W 6
+1233	MEM	Phoenix Suns	W	122	114	55	23	W 7
+1234	MEM	Utah Jazz	L	115	121	55	24	L 1
+1235	MEM	Denver Nuggets	L	109	122	55	25	L 2
+1236	MEM	New Orleans Pelicans	W	141	114	56	25	W 1
+1237	MEM	Boston Celtics	L	110	139	56	26	L 1
+1238	MIA	Milwaukee Bucks	W	137	95	1	0	W 1
+1239	MIA	Indiana Pacers	L	91	102	1	1	L 1
+1240	MIA	Orlando Magic	W	107	90	2	1	W 1
+1241	MIA	Brooklyn Nets	W	106	93	3	1	W 2
+1242	MIA	Charlotte Hornets	W	114	99	4	1	W 3
+1243	MIA	Memphis Grizzlies	W	129	103	5	1	W 4
+1244	MIA	Dallas Mavericks	W	125	110	6	1	W 5
+1245	MIA	Boston Celtics	L	78	95	6	2	L 1
+1246	MIA	Utah Jazz	W	118	115	7	2	W 1
+1247	MIA	Denver Nuggets	L	96	113	7	3	L 1
+1248	MIA	Los Angeles Lakers	L	117	120	7	4	L 2
+1249	MIA	Los Angeles Clippers	L	109	112	7	5	L 3
+1250	MIA	Utah Jazz	W	111	105	8	5	W 1
+1251	MIA	Oklahoma City Thunder	W	103	90	9	5	W 2
+1252	MIA	New Orleans Pelicans	W	113	98	10	5	W 3
+1253	MIA	Washington Wizards	W	112	97	11	5	W 4
+1254	MIA	Washington Wizards	L	100	103	11	6	L 1
+1255	MIA	Detroit Pistons	W	100	92	12	6	W 1
+1256	MIA	Minnesota Timberwolves	L	101	113	12	7	L 1
+1257	MIA	Chicago Bulls	W	107	104	13	7	W 1
+1258	MIA	Denver Nuggets	L	111	120	13	8	L 1
+1259	MIA	Cleveland Cavaliers	L	85	111	13	9	L 2
+1260	MIA	Indiana Pacers	W	113	104	14	9	W 1
+1261	MIA	Milwaukee Bucks	L	102	124	14	10	L 1
+1262	MIA	Memphis Grizzlies	L	90	105	14	11	L 2
+1263	MIA	Milwaukee Bucks	W	113	104	15	11	W 1
+1264	MIA	Chicago Bulls	W	118	92	16	11	W 2
+1265	MIA	Cleveland Cavaliers	L	94	105	16	12	L 1
+1266	MIA	Philadelphia 76ers	W	101	96	17	12	W 1
+1267	MIA	Orlando Magic	W	115	105	18	12	W 2
+1268	MIA	Detroit Pistons	L	90	100	18	13	L 1
+1269	MIA	Indiana Pacers	W	125	96	19	13	W 1
+1270	MIA	Detroit Pistons	W	115	112	20	13	W 2
+1271	MIA	Orlando Magic	W	93	83	21	13	W 3
+1272	MIA	Washington Wizards	W	119	112	22	13	W 4
+1273	MIA	Houston Rockets	W	120	110	23	13	W 5
+1274	MIA	Sacramento Kings	L	113	115	23	14	L 1
+1275	MIA	Golden State Warriors	L	108	115	23	15	L 2
+1276	MIA	Portland Trail Blazers	W	115	109	24	15	W 1
+1277	MIA	Phoenix Suns	W	123	100	25	15	W 2
+1278	MIA	Atlanta Hawks	W	115	91	26	15	W 3
+1279	MIA	Atlanta Hawks	W	124	118	27	15	W 4
+1280	MIA	Philadelphia 76ers	L	98	109	27	16	L 1
+1281	MIA	Toronto Raptors	W	104	99	28	16	W 1
+1282	MIA	Portland Trail Blazers	W	104	92	29	16	W 2
+1283	MIA	Atlanta Hawks	L	108	110	29	17	L 1
+1284	MIA	Los Angeles Lakers	W	113	107	30	17	W 1
+1285	MIA	New York Knicks	W	110	96	31	17	W 2
+1286	MIA	Los Angeles Clippers	W	121	114	32	17	W 3
+1287	MIA	Toronto Raptors	L	120	124	32	18	L 1
+1288	MIA	Boston Celtics	L	92	122	32	19	L 2
+1289	MIA	Toronto Raptors	L	106	110	32	20	L 3
+1290	MIA	San Antonio Spurs	W	112	95	33	20	W 1
+1291	MIA	Charlotte Hornets	W	104	86	34	20	W 2
+1292	MIA	Washington Wizards	W	121	100	35	20	W 3
+1293	MIA	New Orleans Pelicans	W	112	97	36	20	W 4
+1294	MIA	Brooklyn Nets	W	115	111	37	20	W 5
+1295	MIA	Dallas Mavericks	L	99	107	37	21	L 1
+1296	MIA	Charlotte Hornets	W	111	107	38	21	W 1
+1297	MIA	New York Knicks	W	115	100	39	21	W 2
+1298	MIA	San Antonio Spurs	W	133	129	40	21	W 3
+1299	MIA	Chicago Bulls	W	112	99	41	21	W 4
+1300	MIA	Milwaukee Bucks	L	119	120	41	22	L 1
+1301	MIA	Brooklyn Nets	W	113	107	42	22	W 1
+1302	MIA	Philadelphia 76ers	W	99	82	43	22	W 2
+1303	MIA	Houston Rockets	W	123	106	44	22	W 3
+1304	MIA	Phoenix Suns	L	90	111	44	23	L 1
+1305	MIA	Cleveland Cavaliers	W	117	105	45	23	W 1
+1306	MIA	Minnesota Timberwolves	L	104	113	45	24	L 1
+1307	MIA	Detroit Pistons	W	105	98	46	24	W 1
+1308	MIA	Oklahoma City Thunder	W	120	108	47	24	W 2
+1309	MIA	Philadelphia 76ers	L	106	113	47	25	L 1
+1310	MIA	Golden State Warriors	L	104	118	47	26	L 2
+1311	MIA	New York Knicks	L	103	111	47	27	L 3
+1312	MIA	Brooklyn Nets	L	95	110	47	28	L 4
+1313	MIA	Sacramento Kings	W	123	100	48	28	W 1
+1314	MIA	Boston Celtics	W	106	98	49	28	W 2
+1315	MIA	Chicago Bulls	W	127	109	50	28	W 3
+1316	MIA	Toronto Raptors	W	114	109	51	28	W 4
+1317	MIA	Charlotte Hornets	W	144	115	52	28	W 5
+1318	MIA	Atlanta Hawks	W	113	109	53	28	W 6
+1319	MIA	Orlando Magic	L	111	125	53	29	L 1
+1320	MIL	Brooklyn Nets	W	127	104	1	0	W 1
+1321	MIL	Miami Heat	L	95	137	1	1	L 1
+1322	MIL	San Antonio Spurs	W	121	111	2	1	W 1
+1323	MIL	Indiana Pacers	W	119	109	3	1	W 2
+1324	MIL	Minnesota Timberwolves	L	108	113	3	2	L 1
+1325	MIL	San Antonio Spurs	L	93	102	3	3	L 2
+1326	MIL	Utah Jazz	L	95	107	3	4	L 3
+1327	MIL	Detroit Pistons	W	117	89	4	4	W 1
+1328	MIL	New York Knicks	L	98	113	4	5	L 1
+1329	MIL	Washington Wizards	L	94	101	4	6	L 2
+1330	MIL	Philadelphia 76ers	W	118	109	5	6	W 1
+1331	MIL	New York Knicks	W	112	100	6	6	W 2
+1332	MIL	Boston Celtics	L	113	122	6	7	L 1
+1333	MIL	Atlanta Hawks	L	100	120	6	8	L 2
+1334	MIL	Los Angeles Lakers	W	109	102	7	8	W 1
+1335	MIL	Oklahoma City Thunder	W	96	89	8	8	W 2
+1336	MIL	Orlando Magic	W	117	108	9	8	W 3
+1337	MIL	Orlando Magic	W	123	92	10	8	W 4
+1338	MIL	Detroit Pistons	W	114	93	11	8	W 5
+1339	MIL	Denver Nuggets	W	120	109	12	8	W 6
+1340	MIL	Indiana Pacers	W	118	100	13	8	W 7
+1341	MIL	Charlotte Hornets	W	127	125	14	8	W 8
+1342	MIL	Toronto Raptors	L	93	97	14	9	L 1
+1343	MIL	Miami Heat	W	124	102	15	9	W 1
+1344	MIL	Cleveland Cavaliers	W	112	104	16	9	W 2
+1345	MIL	Miami Heat	L	104	113	16	10	L 1
+1346	MIL	Houston Rockets	W	123	114	17	10	W 1
+1347	MIL	New York Knicks	W	112	97	18	10	W 2
+1348	MIL	Boston Celtics	L	103	117	18	11	L 1
+1349	MIL	Indiana Pacers	W	114	99	19	11	W 1
+1350	MIL	New Orleans Pelicans	L	112	116	19	12	L 1
+1351	MIL	Cleveland Cavaliers	L	90	119	19	13	L 2
+1352	MIL	Houston Rockets	W	126	106	20	13	W 1
+1353	MIL	Dallas Mavericks	W	102	95	21	13	W 2
+1354	MIL	Boston Celtics	W	117	113	22	13	W 3
+1355	MIL	Orlando Magic	W	127	110	23	13	W 4
+1356	MIL	Orlando Magic	W	136	118	24	13	W 5
+1357	MIL	New Orleans Pelicans	W	136	113	25	13	W 6
+1358	MIL	Detroit Pistons	L	106	115	25	14	L 1
+1359	MIL	Toronto Raptors	L	111	117	25	15	L 2
+1360	MIL	Brooklyn Nets	W	121	109	26	15	W 1
+1361	MIL	Charlotte Hornets	L	106	114	26	16	L 1
+1362	MIL	Charlotte Hornets	L	99	103	26	17	L 2
+1363	MIL	Golden State Warriors	W	118	99	27	17	W 1
+1364	MIL	Toronto Raptors	L	96	103	27	18	L 1
+1365	MIL	Atlanta Hawks	L	114	121	27	19	L 2
+1366	MIL	Memphis Grizzlies	W	126	114	28	19	W 1
+1367	MIL	Chicago Bulls	W	94	90	29	19	W 2
+1368	MIL	Sacramento Kings	W	133	127	30	19	W 3
+1369	MIL	Cleveland Cavaliers	L	99	115	30	20	L 1
+1370	MIL	New York Knicks	W	123	108	31	20	W 1
+1371	MIL	Denver Nuggets	L	100	136	31	21	L 1
+1372	MIL	Washington Wizards	W	112	98	32	21	W 1
+1373	MIL	Portland Trail Blazers	W	137	108	33	21	W 2
+1374	MIL	Los Angeles Clippers	W	137	113	34	21	W 3
+1375	MIL	Los Angeles Lakers	W	131	116	35	21	W 4
+1376	MIL	Phoenix Suns	L	107	131	35	22	L 1
+1377	MIL	Portland Trail Blazers	L	107	122	35	23	L 2
+1378	MIL	Indiana Pacers	W	128	119	36	23	W 1
+1379	MIL	Philadelphia 76ers	L	120	123	36	24	L 1
+1380	MIL	Brooklyn Nets	L	123	126	36	25	L 2
+1381	MIL	Charlotte Hornets	W	130	106	37	25	W 1
+1382	MIL	Miami Heat	W	120	119	38	25	W 2
+1383	MIL	Chicago Bulls	W	118	112	39	25	W 3
+1384	MIL	Phoenix Suns	W	132	122	40	25	W 4
+1385	MIL	Oklahoma City Thunder	W	142	115	41	25	W 5
+1386	MIL	Atlanta Hawks	W	124	115	42	25	W 6
+1387	MIL	Golden State Warriors	L	109	122	42	26	L 1
+1388	MIL	Utah Jazz	W	117	111	43	26	W 1
+1389	MIL	Sacramento Kings	W	135	126	44	26	W 2
+1390	MIL	Minnesota Timberwolves	L	119	138	44	27	L 1
+1391	MIL	Chicago Bulls	W	126	98	45	27	W 1
+1392	MIL	Washington Wizards	W	114	102	46	27	W 2
+1393	MIL	Memphis Grizzlies	L	102	127	46	28	L 1
+1394	MIL	Philadelphia 76ers	W	118	116	47	28	W 1
+1395	MIL	Brooklyn Nets	W	120	119	48	28	W 2
+1396	MIL	Los Angeles Clippers	L	119	153	48	29	L 1
+1397	MIL	Dallas Mavericks	L	112	118	48	30	L 2
+1398	MIL	Chicago Bulls	W	127	106	49	30	W 1
+1399	MIL	Boston Celtics	W	127	121	50	30	W 2
+1400	MIL	Detroit Pistons	W	131	101	51	30	W 3
+1401	MIL	Cleveland Cavaliers	L	115	133	51	31	L 1
+1402	MIN	Houston Rockets	W	124	106	1	0	W 1
+1403	MIN	New Orleans Pelicans	W	96	89	2	0	W 2
+1404	MIN	New Orleans Pelicans	L	98	107	2	1	L 1
+1405	MIN	Milwaukee Bucks	W	113	108	3	1	W 1
+1406	MIN	Denver Nuggets	L	91	93	3	2	L 1
+1407	MIN	Orlando Magic	L	97	115	3	3	L 2
+1408	MIN	Los Angeles Clippers	L	115	126	3	4	L 3
+1409	MIN	Los Angeles Clippers	L	84	104	3	5	L 4
+1410	MIN	Memphis Grizzlies	L	118	125	3	6	L 5
+1411	MIN	Golden State Warriors	L	110	123	3	7	L 6
+1412	MIN	Los Angeles Lakers	W	107	83	4	7	W 1
+1413	MIN	Los Angeles Clippers	L	102	129	4	8	L 1
+1414	MIN	Phoenix Suns	L	96	99	4	9	L 2
+1415	MIN	Sacramento Kings	W	107	97	5	9	W 1
+1416	MIN	San Antonio Spurs	W	115	90	6	9	W 2
+1417	MIN	Memphis Grizzlies	W	138	95	7	9	W 3
+1418	MIN	New Orleans Pelicans	W	110	96	8	9	W 4
+1419	MIN	Miami Heat	W	113	101	9	9	W 5
+1420	MIN	Charlotte Hornets	L	115	133	9	10	L 1
+1421	MIN	Philadelphia 76ers	W	121	120	10	10	W 1
+1422	MIN	Indiana Pacers	W	100	98	11	10	W 2
+1423	MIN	Washington Wizards	L	107	115	11	11	L 1
+1424	MIN	Brooklyn Nets	L	105	110	11	12	L 2
+1425	MIN	Atlanta Hawks	L	110	121	11	13	L 3
+1426	MIN	Utah Jazz	L	104	136	11	14	L 4
+1427	MIN	Cleveland Cavaliers	L	106	123	11	15	L 5
+1428	MIN	Portland Trail Blazers	W	116	111	12	15	W 1
+1429	MIN	Denver Nuggets	W	124	107	13	15	W 2
+1430	MIN	Los Angeles Lakers	W	110	92	14	15	W 3
+1431	MIN	Dallas Mavericks	W	111	105	15	15	W 4
+1432	MIN	Dallas Mavericks	L	102	114	15	16	L 1
+1433	MIN	Utah Jazz	L	116	128	15	17	L 2
+1434	MIN	Boston Celtics	W	108	103	16	17	W 1
+1435	MIN	New York Knicks	L	88	96	16	18	L 1
+1436	MIN	Utah Jazz	L	108	120	16	19	L 2
+1437	MIN	Los Angeles Lakers	L	103	108	16	20	L 3
+1438	MIN	Los Angeles Clippers	W	122	104	17	20	W 1
+1439	MIN	Oklahoma City Thunder	W	98	90	18	20	W 2
+1440	MIN	Oklahoma City Thunder	W	135	105	19	20	W 3
+1441	MIN	Houston Rockets	W	141	123	20	20	W 4
+1442	MIN	New Orleans Pelicans	L	125	128	20	21	L 1
+1443	MIN	Memphis Grizzlies	L	108	116	20	22	L 2
+1444	MIN	Golden State Warriors	W	119	99	21	22	W 1
+1445	MIN	New York Knicks	W	112	110	22	22	W 2
+1446	MIN	Atlanta Hawks	L	122	134	22	23	L 1
+1447	MIN	Brooklyn Nets	W	136	125	23	23	W 1
+1448	MIN	Portland Trail Blazers	W	109	107	24	23	W 2
+1449	MIN	Golden State Warriors	L	115	124	24	24	L 1
+1450	MIN	Phoenix Suns	L	124	134	24	25	L 2
+1451	MIN	Utah Jazz	W	126	106	25	25	W 1
+1452	MIN	Denver Nuggets	W	130	115	26	25	W 2
+1453	MIN	Detroit Pistons	W	128	117	27	25	W 3
+1454	MIN	Detroit Pistons	W	118	105	28	25	W 4
+1455	MIN	Sacramento Kings	W	134	114	29	25	W 5
+1456	MIN	Sacramento Kings	L	119	132	29	26	L 1
+1457	MIN	Chicago Bulls	L	122	134	29	27	L 2
+1458	MIN	Indiana Pacers	W	129	120	30	27	W 1
+1459	MIN	Charlotte Hornets	W	126	120	31	27	W 2
+1460	MIN	Toronto Raptors	L	91	103	31	28	L 1
+1461	MIN	Memphis Grizzlies	W	119	114	32	28	W 1
+1462	MIN	Philadelphia 76ers	L	102	133	32	29	L 1
+1463	MIN	Cleveland Cavaliers	W	127	122	33	29	W 1
+1464	MIN	Golden State Warriors	W	129	114	34	29	W 2
+1465	MIN	Oklahoma City Thunder	W	138	101	35	29	W 3
+1466	MIN	Portland Trail Blazers	W	135	121	36	29	W 4
+1467	MIN	Portland Trail Blazers	W	124	81	37	29	W 5
+1468	MIN	Oklahoma City Thunder	W	132	102	38	29	W 6
+1469	MIN	Orlando Magic	L	110	118	38	30	L 1
+1470	MIN	Miami Heat	W	113	104	39	30	W 1
+1471	MIN	San Antonio Spurs	W	149	139	40	30	W 2
+1472	MIN	Los Angeles Lakers	W	124	104	41	30	W 3
+1473	MIN	Milwaukee Bucks	W	138	119	42	30	W 4
+1474	MIN	Dallas Mavericks	L	108	110	42	31	L 1
+1475	MIN	Phoenix Suns	L	116	125	42	32	L 2
+1476	MIN	Dallas Mavericks	W	116	95	43	32	W 1
+1477	MIN	Boston Celtics	L	112	134	43	33	L 1
+1478	MIN	Toronto Raptors	L	102	125	43	34	L 2
+1479	MIN	Denver Nuggets	W	136	130	44	34	W 1
+1480	MIN	Houston Rockets	W	139	132	45	34	W 2
+1481	MIN	Washington Wizards	L	114	132	45	35	L 1
+1482	MIN	San Antonio Spurs	W	127	121	46	35	W 1
+1483	MIN	Chicago Bulls	L	120	124	46	36	L 1
+1484	MIN	Los Angeles Clippers	W	109	104	47	36	W 1
+1485	NOP	Philadelphia 76ers	L	97	117	0	1	L 1
+1486	NOP	Chicago Bulls	L	112	128	0	2	L 2
+1487	NOP	Minnesota Timberwolves	L	89	96	0	3	L 3
+1488	NOP	Minnesota Timberwolves	W	107	98	1	3	W 1
+1489	NOP	Atlanta Hawks	L	99	102	1	4	L 1
+1490	NOP	Sacramento Kings	L	109	113	1	5	L 2
+1491	NOP	New York Knicks	L	117	123	1	6	L 3
+1492	NOP	Phoenix Suns	L	100	112	1	7	L 4
+1493	NOP	Sacramento Kings	L	99	112	1	8	L 5
+1494	NOP	Golden State Warriors	L	85	126	1	9	L 6
+1495	NOP	Dallas Mavericks	L	92	108	1	10	L 7
+1496	NOP	Oklahoma City Thunder	L	100	108	1	11	L 8
+1497	NOP	Brooklyn Nets	L	112	120	1	12	L 9
+1498	NOP	Memphis Grizzlies	W	112	101	2	12	W 1
+1499	NOP	Washington Wizards	L	100	105	2	13	L 1
+1500	NOP	Miami Heat	L	98	113	2	14	L 2
+1501	NOP	Los Angeles Clippers	W	94	81	3	14	W 1
+1502	NOP	Indiana Pacers	L	94	111	3	15	L 1
+1503	NOP	Minnesota Timberwolves	L	96	110	3	16	L 2
+1504	NOP	Washington Wizards	W	127	102	4	16	W 1
+1505	NOP	Utah Jazz	W	98	97	5	16	W 2
+1506	NOP	Utah Jazz	L	105	127	5	17	L 1
+1507	NOP	Los Angeles Clippers	W	123	104	6	17	W 1
+1508	NOP	Dallas Mavericks	L	107	139	6	18	L 1
+1509	NOP	Dallas Mavericks	W	107	91	7	18	W 1
+1510	NOP	Houston Rockets	L	108	118	7	19	L 1
+1511	NOP	Denver Nuggets	L	114	120	7	20	L 2
+1512	NOP	Detroit Pistons	W	109	93	8	20	W 1
+1513	NOP	San Antonio Spurs	L	97	112	8	21	L 1
+1514	NOP	Oklahoma City Thunder	W	113	110	9	21	W 1
+1515	NOP	Milwaukee Bucks	W	116	112	10	21	W 2
+1516	NOP	Portland Trail Blazers	W	111	97	11	21	W 3
+1517	NOP	Orlando Magic	W	110	104	12	21	W 4
+1518	NOP	Oklahoma City Thunder	L	112	117	12	22	L 1
+1519	NOP	Cleveland Cavaliers	W	108	104	13	22	W 1
+1520	NOP	Milwaukee Bucks	L	113	136	13	23	L 1
+1521	NOP	Utah Jazz	L	104	115	13	24	L 2
+1522	NOP	Phoenix Suns	L	110	123	13	25	L 3
+1523	NOP	Golden State Warriors	W	101	96	14	25	W 1
+1524	NOP	Toronto Raptors	L	101	105	14	26	L 1
+1525	NOP	Minnesota Timberwolves	W	128	125	15	26	W 1
+1526	NOP	Los Angeles Clippers	W	113	89	16	26	W 2
+1527	NOP	Brooklyn Nets	L	105	120	16	27	L 1
+1528	NOP	Boston Celtics	L	92	104	16	28	L 2
+1529	NOP	New York Knicks	W	102	91	17	28	W 1
+1530	NOP	Indiana Pacers	W	117	113	18	28	W 2
+1531	NOP	Philadelphia 76ers	L	107	117	18	29	L 1
+1532	NOP	Denver Nuggets	L	105	116	18	30	L 2
+1533	NOP	Boston Celtics	L	97	107	18	31	L 3
+1534	NOP	Cleveland Cavaliers	L	90	93	18	32	L 4
+1535	NOP	Detroit Pistons	W	111	101	19	32	W 1
+1536	NOP	Denver Nuggets	W	113	105	20	32	W 2
+1537	NOP	Houston Rockets	W	120	107	21	32	W 3
+1538	NOP	Houston Rockets	W	110	97	22	32	W 4
+1539	NOP	Miami Heat	L	97	112	22	33	L 1
+1540	NOP	San Antonio Spurs	L	114	124	22	34	L 2
+1541	NOP	Toronto Raptors	W	120	90	23	34	W 1
+1542	NOP	Memphis Grizzlies	L	109	121	23	35	L 1
+1543	NOP	Dallas Mavericks	L	118	125	23	36	L 2
+1544	NOP	Phoenix Suns	W	117	102	24	36	W 1
+1545	NOP	Los Angeles Lakers	W	123	95	25	36	W 2
+1546	NOP	Sacramento Kings	W	125	95	26	36	W 3
+1547	NOP	Utah Jazz	W	124	90	27	36	W 4
+1548	NOP	Denver Nuggets	L	130	138	27	37	L 1
+1549	NOP	Memphis Grizzlies	L	111	132	27	38	L 2
+1550	NOP	Orlando Magic	L	102	108	27	39	L 3
+1551	NOP	Charlotte Hornets	L	120	142	27	40	L 4
+1552	NOP	Houston Rockets	W	130	105	28	40	W 1
+1553	NOP	Phoenix Suns	L	115	131	28	41	L 1
+1554	NOP	San Antonio Spurs	W	124	91	29	41	W 1
+1555	NOP	Atlanta Hawks	W	117	112	30	41	W 2
+1556	NOP	Charlotte Hornets	L	103	106	30	42	L 1
+1557	NOP	Chicago Bulls	W	126	109	31	42	W 1
+1558	NOP	San Antonio Spurs	L	103	107	31	43	L 1
+1559	NOP	Los Angeles Lakers	W	116	108	32	43	W 1
+1560	NOP	Portland Trail Blazers	W	117	107	33	43	W 2
+1561	NOP	Los Angeles Lakers	W	114	111	34	43	W 3
+1562	NOP	Los Angeles Clippers	L	100	119	34	44	L 1
+1563	NOP	Sacramento Kings	W	123	109	35	44	W 1
+1564	NOP	Portland Trail Blazers	W	127	94	36	44	W 2
+1565	NOP	Memphis Grizzlies	L	114	141	36	45	L 1
+1566	NOP	Golden State Warriors	L	107	128	36	46	L 2
+1567	NOP	San Antonio Spurs	W	113	103	37	46	W 1
+1568	NOP	Los Angeles Clippers	W	105	101	38	46	W 2
+1569	NYK	Boston Celtics	W	138	134	1	0	W 1
+1570	NYK	Orlando Magic	W	121	96	2	0	W 2
+1571	NYK	Orlando Magic	L	104	110	2	1	L 1
+1572	NYK	Philadelphia 76ers	W	112	99	3	1	W 1
+1573	NYK	Chicago Bulls	W	104	103	4	1	W 2
+1574	NYK	New Orleans Pelicans	W	123	117	5	1	W 3
+1575	NYK	Toronto Raptors	L	104	113	5	2	L 1
+1576	NYK	Indiana Pacers	L	98	111	5	3	L 2
+1577	NYK	Milwaukee Bucks	W	113	98	6	3	W 1
+1578	NYK	Cleveland Cavaliers	L	109	126	6	4	L 1
+1579	NYK	Philadelphia 76ers	W	103	96	7	4	W 1
+1580	NYK	Milwaukee Bucks	L	100	112	7	5	L 1
+1581	NYK	Charlotte Hornets	L	96	104	7	6	L 2
+1582	NYK	Indiana Pacers	W	92	84	8	6	W 1
+1583	NYK	Orlando Magic	L	98	104	8	7	L 1
+1584	NYK	Houston Rockets	W	106	99	9	7	W 1
+1585	NYK	Chicago Bulls	L	103	109	9	8	L 1
+1586	NYK	Los Angeles Lakers	W	106	100	10	8	W 1
+1587	NYK	Phoenix Suns	L	97	118	10	9	L 1
+1588	NYK	Atlanta Hawks	W	99	90	11	9	W 1
+1589	NYK	Brooklyn Nets	L	110	112	11	10	L 1
+1590	NYK	Chicago Bulls	L	115	119	11	11	L 2
+1591	NYK	Denver Nuggets	L	99	113	11	12	L 3
+1592	NYK	San Antonio Spurs	W	121	109	12	12	W 1
+1593	NYK	Indiana Pacers	L	102	122	12	13	L 1
+1594	NYK	Toronto Raptors	L	87	90	12	14	L 2
+1595	NYK	Milwaukee Bucks	L	97	112	12	15	L 3
+1596	NYK	Golden State Warriors	L	96	105	12	16	L 4
+1597	NYK	Houston Rockets	W	116	103	13	16	W 1
+1598	NYK	Boston Celtics	L	107	114	13	17	L 1
+1599	NYK	Detroit Pistons	W	105	91	14	17	W 1
+1600	NYK	Washington Wizards	L	117	124	14	18	L 1
+1601	NYK	Atlanta Hawks	W	101	87	15	18	W 1
+1602	NYK	Minnesota Timberwolves	W	96	88	16	18	W 2
+1603	NYK	Detroit Pistons	W	94	85	17	18	W 3
+1604	NYK	Oklahoma City Thunder	L	80	95	17	19	L 1
+1605	NYK	Toronto Raptors	L	105	120	17	20	L 2
+1606	NYK	Indiana Pacers	W	104	94	18	20	W 1
+1607	NYK	Boston Celtics	W	108	105	19	20	W 2
+1608	NYK	Boston Celtics	L	75	99	19	21	L 1
+1609	NYK	San Antonio Spurs	W	111	96	20	21	W 1
+1610	NYK	Dallas Mavericks	W	108	85	21	21	W 2
+1611	NYK	Atlanta Hawks	W	117	108	22	21	W 3
+1612	NYK	Charlotte Hornets	L	87	97	22	22	L 1
+1613	NYK	Minnesota Timberwolves	L	110	112	22	23	L 2
+1614	NYK	New Orleans Pelicans	L	91	102	22	24	L 3
+1615	NYK	Los Angeles Clippers	W	110	102	23	24	W 1
+1616	NYK	Cleveland Cavaliers	L	93	95	23	25	L 1
+1617	NYK	Miami Heat	L	96	110	23	26	L 2
+1618	NYK	Milwaukee Bucks	L	108	123	23	27	L 3
+1619	NYK	Sacramento Kings	W	116	96	24	27	W 1
+1620	NYK	Memphis Grizzlies	L	108	120	24	28	L 1
+1621	NYK	Los Angeles Lakers	L	115	122	24	29	L 2
+1622	NYK	Utah Jazz	L	104	113	24	30	L 3
+1623	NYK	Denver Nuggets	L	115	132	24	31	L 4
+1624	NYK	Golden State Warriors	W	116	114	25	31	W 1
+1625	NYK	Portland Trail Blazers	L	103	112	25	32	L 1
+1626	NYK	Oklahoma City Thunder	L	123	127	25	33	L 2
+1627	NYK	Brooklyn Nets	L	106	111	25	34	L 3
+1628	NYK	Miami Heat	L	100	115	25	35	L 4
+1629	NYK	Philadelphia 76ers	L	109	125	25	36	L 5
+1630	NYK	Philadelphia 76ers	L	108	123	25	37	L 6
+1631	NYK	Phoenix Suns	L	114	115	25	38	L 7
+1632	NYK	Los Angeles Clippers	W	116	93	26	38	W 1
+1633	NYK	Sacramento Kings	W	131	115	27	38	W 2
+1634	NYK	Dallas Mavericks	W	107	77	28	38	W 3
+1635	NYK	Memphis Grizzlies	L	114	118	28	39	L 1
+1636	NYK	Brooklyn Nets	L	107	110	28	40	L 2
+1637	NYK	Portland Trail Blazers	W	128	98	29	40	W 1
+1638	NYK	Washington Wizards	W	100	97	30	40	W 2
+1639	NYK	Utah Jazz	L	93	108	30	41	L 1
+1640	NYK	Atlanta Hawks	L	111	117	30	42	L 2
+1641	NYK	Charlotte Hornets	W	121	106	31	42	W 1
+1642	NYK	Miami Heat	W	111	103	32	42	W 2
+1643	NYK	Detroit Pistons	W	104	102	33	42	W 3
+1644	NYK	Chicago Bulls	W	109	104	34	42	W 4
+1645	NYK	Charlotte Hornets	L	114	125	34	43	L 1
+1646	NYK	Cleveland Cavaliers	L	101	119	34	44	L 2
+1647	NYK	Orlando Magic	W	118	88	35	44	W 1
+1648	NYK	Brooklyn Nets	L	98	110	35	45	L 1
+1649	NYK	Washington Wizards	W	114	92	36	45	W 1
+1650	NYK	Toronto Raptors	W	105	94	37	45	W 2
+1651	OKC	Utah Jazz	L	86	107	0	1	L 1
+1652	OKC	Houston Rockets	L	91	124	0	2	L 2
+1653	OKC	Philadelphia 76ers	L	103	115	0	3	L 3
+1654	OKC	Golden State Warriors	L	98	106	0	4	L 4
+1655	OKC	Los Angeles Lakers	W	123	115	1	4	W 1
+1656	OKC	Golden State Warriors	L	82	103	1	5	L 1
+1657	OKC	Los Angeles Clippers	L	94	99	1	6	L 2
+1658	OKC	Los Angeles Lakers	W	107	104	2	6	W 1
+1659	OKC	San Antonio Spurs	W	99	94	3	6	W 2
+1660	OKC	New Orleans Pelicans	W	108	100	4	6	W 3
+1661	OKC	Sacramento Kings	W	105	103	5	6	W 4
+1662	OKC	Brooklyn Nets	L	96	120	5	7	L 1
+1663	OKC	Miami Heat	L	90	103	5	8	L 2
+1664	OKC	Houston Rockets	W	101	89	6	8	W 1
+1665	OKC	Milwaukee Bucks	L	89	96	6	9	L 1
+1666	OKC	Boston Celtics	L	105	111	6	10	L 2
+1667	OKC	Atlanta Hawks	L	101	113	6	11	L 3
+1668	OKC	Utah Jazz	L	104	110	6	12	L 4
+1669	OKC	Washington Wizards	L	99	101	6	13	L 5
+1670	OKC	Houston Rockets	L	89	102	6	14	L 6
+1671	OKC	Houston Rockets	L	110	114	6	15	L 7
+1672	OKC	Memphis Grizzlies	L	79	152	6	16	L 8
+1673	OKC	Detroit Pistons	W	114	103	7	16	W 1
+1674	OKC	Toronto Raptors	W	110	109	8	16	W 2
+1675	OKC	Los Angeles Lakers	L	95	116	8	17	L 1
+1676	OKC	Dallas Mavericks	L	84	103	8	18	L 2
+1677	OKC	New Orleans Pelicans	L	110	113	8	19	L 3
+1678	OKC	Los Angeles Clippers	W	104	103	9	19	W 1
+1679	OKC	Memphis Grizzlies	W	102	99	10	19	W 2
+1680	OKC	Denver Nuggets	W	108	94	11	19	W 3
+1681	OKC	Phoenix Suns	L	101	113	11	20	L 1
+1682	OKC	New Orleans Pelicans	W	117	112	12	20	W 1
+1683	OKC	Sacramento Kings	L	111	117	12	21	L 1
+1684	OKC	Phoenix Suns	L	97	115	12	22	L 2
+1685	OKC	New York Knicks	W	95	80	13	22	W 1
+1686	OKC	Dallas Mavericks	L	86	95	13	23	L 1
+1687	OKC	Minnesota Timberwolves	L	90	98	13	24	L 2
+1688	OKC	Minnesota Timberwolves	L	105	135	13	25	L 3
+1689	OKC	Denver Nuggets	L	95	99	13	26	L 4
+1690	OKC	Washington Wizards	L	118	122	13	27	L 5
+1691	OKC	Brooklyn Nets	W	130	109	14	27	W 1
+1692	OKC	Cleveland Cavaliers	L	102	107	14	28	L 1
+1693	OKC	Dallas Mavericks	L	102	104	14	29	L 2
+1694	OKC	San Antonio Spurs	L	96	118	14	30	L 3
+1695	OKC	Charlotte Hornets	L	98	121	14	31	L 4
+1696	OKC	Cleveland Cavaliers	L	87	94	14	32	L 5
+1697	OKC	Chicago Bulls	L	110	111	14	33	L 6
+1698	OKC	Indiana Pacers	L	110	113	14	34	L 7
+1699	OKC	Portland Trail Blazers	W	98	81	15	34	W 1
+1700	OKC	Dallas Mavericks	W	120	114	16	34	W 2
+1701	OKC	Portland Trail Blazers	W	96	93	17	34	W 3
+1702	OKC	Sacramento Kings	L	103	113	17	35	L 1
+1703	OKC	Golden State Warriors	L	98	110	17	36	L 2
+1704	OKC	Toronto Raptors	L	98	117	17	37	L 3
+1705	OKC	Philadelphia 76ers	L	87	100	17	38	L 4
+1706	OKC	Chicago Bulls	L	101	106	17	39	L 5
+1707	OKC	New York Knicks	W	127	123	18	39	W 1
+1708	OKC	San Antonio Spurs	L	106	114	18	40	L 1
+1709	OKC	Phoenix Suns	L	104	124	18	41	L 2
+1710	OKC	Indiana Pacers	W	129	125	19	41	W 1
+1711	OKC	Sacramento Kings	L	110	131	19	42	L 1
+1712	OKC	Denver Nuggets	W	119	107	20	42	W 1
+1713	OKC	Minnesota Timberwolves	L	101	138	20	43	L 1
+1714	OKC	Utah Jazz	L	103	116	20	44	L 2
+1715	OKC	Milwaukee Bucks	L	115	142	20	45	L 3
+1716	OKC	Minnesota Timberwolves	L	102	132	20	46	L 4
+1717	OKC	Memphis Grizzlies	L	118	125	20	47	L 5
+1718	OKC	Charlotte Hornets	L	116	134	20	48	L 6
+1719	OKC	San Antonio Spurs	L	120	122	20	49	L 7
+1720	OKC	Miami Heat	L	108	120	20	50	L 8
+1721	OKC	Orlando Magic	L	85	90	20	51	L 9
+1722	OKC	Boston Celtics	L	123	132	20	52	L 10
+1723	OKC	Orlando Magic	W	118	102	21	52	W 1
+1724	OKC	Denver Nuggets	L	107	113	21	53	L 1
+1725	OKC	Portland Trail Blazers	W	134	131	22	53	W 1
+1726	OKC	Atlanta Hawks	L	118	136	22	54	L 1
+1727	OKC	Detroit Pistons	L	101	110	22	55	L 2
+1728	OKC	Phoenix Suns	W	117	96	23	55	W 1
+1729	OKC	Portland Trail Blazers	W	98	94	24	55	W 2
+1730	OKC	Utah Jazz	L	101	137	24	56	L 1
+1731	OKC	Los Angeles Lakers	L	101	120	24	57	L 2
+1732	OKC	Los Angeles Clippers	L	88	138	24	58	L 3
+1733	ORL	San Antonio Spurs	L	97	123	0	1	L 1
+1734	ORL	New York Knicks	L	96	121	0	2	L 2
+1735	ORL	New York Knicks	W	110	104	1	2	W 1
+1736	ORL	Miami Heat	L	90	107	1	3	L 1
+1737	ORL	Charlotte Hornets	L	111	120	1	4	L 2
+1738	ORL	Toronto Raptors	L	109	110	1	5	L 3
+1739	ORL	Detroit Pistons	L	103	110	1	6	L 4
+1740	ORL	Minnesota Timberwolves	W	115	97	2	6	W 1
+1741	ORL	Boston Celtics	L	79	92	2	7	L 1
+1742	ORL	San Antonio Spurs	L	89	102	2	8	L 2
+1743	ORL	Utah Jazz	W	107	100	3	8	W 1
+1744	ORL	Brooklyn Nets	L	90	123	3	9	L 1
+1745	ORL	Washington Wizards	L	92	104	3	10	L 2
+1746	ORL	Atlanta Hawks	L	111	129	3	11	L 3
+1747	ORL	New York Knicks	W	104	98	4	11	W 1
+1748	ORL	Brooklyn Nets	L	113	115	4	12	L 1
+1749	ORL	Milwaukee Bucks	L	108	117	4	13	L 2
+1750	ORL	Milwaukee Bucks	L	92	123	4	14	L 3
+1751	ORL	Charlotte Hornets	L	99	106	4	15	L 4
+1752	ORL	Chicago Bulls	L	88	123	4	16	L 5
+1753	ORL	Cleveland Cavaliers	L	92	105	4	17	L 6
+1754	ORL	Philadelphia 76ers	L	96	101	4	18	L 7
+1755	ORL	Denver Nuggets	W	108	103	5	18	W 1
+1756	ORL	Houston Rockets	L	116	118	5	19	L 1
+1757	ORL	Golden State Warriors	L	95	126	5	20	L 2
+1758	ORL	Sacramento Kings	L	130	142	5	21	L 3
+1759	ORL	Los Angeles Clippers	L	104	106	5	22	L 4
+1760	ORL	Los Angeles Lakers	L	94	106	5	23	L 5
+1761	ORL	Atlanta Hawks	L	99	111	5	24	L 6
+1762	ORL	Miami Heat	L	105	115	5	25	L 7
+1763	ORL	Brooklyn Nets	W	100	93	6	25	W 1
+1764	ORL	Atlanta Hawks	W	104	98	7	25	W 2
+1765	ORL	New Orleans Pelicans	L	104	110	7	26	L 1
+1766	ORL	Miami Heat	L	83	93	7	27	L 2
+1767	ORL	Milwaukee Bucks	L	110	127	7	28	L 3
+1768	ORL	Milwaukee Bucks	L	118	136	7	29	L 4
+1769	ORL	Boston Celtics	L	111	116	7	30	L 5
+1770	ORL	Chicago Bulls	L	98	102	7	31	L 6
+1771	ORL	Philadelphia 76ers	L	106	116	7	32	L 7
+1772	ORL	Detroit Pistons	L	92	97	7	33	L 8
+1773	ORL	Washington Wizards	L	100	102	7	34	L 9
+1774	ORL	Washington Wizards	L	106	112	7	35	L 10
+1775	ORL	Charlotte Hornets	W	116	109	8	35	W 1
+1776	ORL	Dallas Mavericks	L	92	108	8	36	L 1
+1777	ORL	Portland Trail Blazers	L	88	98	8	37	L 2
+1778	ORL	Philadelphia 76ers	L	110	123	8	38	L 3
+1779	ORL	Los Angeles Lakers	L	105	116	8	39	L 4
+1780	ORL	Chicago Bulls	W	114	95	9	39	W 1
+1781	ORL	Los Angeles Clippers	L	102	111	9	40	L 1
+1782	ORL	Detroit Pistons	W	119	103	10	40	W 1
+1783	ORL	Dallas Mavericks	W	110	108	11	40	W 2
+1784	ORL	Chicago Bulls	L	115	126	11	41	L 1
+1785	ORL	Indiana Pacers	W	119	118	12	41	W 1
+1786	ORL	Memphis Grizzlies	L	115	135	12	42	L 1
+1787	ORL	Boston Celtics	L	83	116	12	43	L 2
+1788	ORL	Portland Trail Blazers	W	113	95	13	43	W 1
+1789	ORL	Utah Jazz	L	99	114	13	44	L 1
+1790	ORL	Phoenix Suns	L	105	132	13	45	L 2
+1791	ORL	Denver Nuggets	L	111	121	13	46	L 3
+1792	ORL	Atlanta Hawks	L	109	130	13	47	L 4
+1793	ORL	Houston Rockets	W	119	111	14	47	W 1
+1794	ORL	Indiana Pacers	W	119	103	15	47	W 2
+1795	ORL	Indiana Pacers	L	114	122	15	48	L 1
+1796	ORL	Toronto Raptors	W	103	97	16	48	W 1
+1797	ORL	Memphis Grizzlies	L	96	124	16	49	L 1
+1798	ORL	Phoenix Suns	L	99	102	16	50	L 2
+1799	ORL	New Orleans Pelicans	W	108	102	17	50	W 1
+1800	ORL	Minnesota Timberwolves	W	118	110	18	50	W 2
+1801	ORL	Philadelphia 76ers	L	114	116	18	51	L 1
+1802	ORL	Brooklyn Nets	L	108	150	18	52	L 2
+1803	ORL	Detroit Pistons	L	120	134	18	53	L 3
+1804	ORL	Oklahoma City Thunder	W	90	85	19	53	W 1
+1805	ORL	Golden State Warriors	W	94	90	20	53	W 2
+1806	ORL	Oklahoma City Thunder	L	102	118	20	54	L 1
+1807	ORL	Sacramento Kings	L	110	114	20	55	L 2
+1808	ORL	Cleveland Cavaliers	L	101	107	20	56	L 3
+1809	ORL	Washington Wizards	L	110	127	20	57	L 4
+1810	ORL	Toronto Raptors	L	89	102	20	58	L 5
+1811	ORL	New York Knicks	L	88	118	20	59	L 6
+1812	ORL	Cleveland Cavaliers	W	120	115	21	59	W 1
+1813	ORL	Charlotte Hornets	L	101	128	21	60	L 1
+1814	ORL	Miami Heat	W	125	111	22	60	W 1
+1815	PHI	New Orleans Pelicans	W	117	97	1	0	W 1
+1816	PHI	Brooklyn Nets	L	109	114	1	1	L 1
+1817	PHI	Oklahoma City Thunder	W	115	103	2	1	W 1
+1818	PHI	New York Knicks	L	99	112	2	2	L 1
+1819	PHI	Detroit Pistons	W	110	102	3	2	W 1
+1820	PHI	Atlanta Hawks	W	122	94	4	2	W 2
+1821	PHI	Portland Trail Blazers	W	113	103	5	2	W 3
+1822	PHI	Chicago Bulls	W	103	98	6	2	W 4
+1823	PHI	Detroit Pistons	W	109	98	7	2	W 5
+1824	PHI	Chicago Bulls	W	114	105	8	2	W 6
+1825	PHI	New York Knicks	L	96	103	8	3	L 1
+1826	PHI	Milwaukee Bucks	L	109	118	8	4	L 2
+1827	PHI	Toronto Raptors	L	109	115	8	5	L 3
+1828	PHI	Indiana Pacers	L	113	118	8	6	L 4
+1829	PHI	Utah Jazz	L	85	120	8	7	L 5
+1830	PHI	Denver Nuggets	W	103	89	9	7	W 1
+1831	PHI	Portland Trail Blazers	L	111	118	9	8	L 1
+1832	PHI	Sacramento Kings	W	102	94	10	8	W 1
+1833	PHI	Golden State Warriors	L	96	116	10	9	L 1
+1834	PHI	Minnesota Timberwolves	L	120	121	10	10	L 2
+1835	PHI	Orlando Magic	W	101	96	11	10	W 1
+1836	PHI	Boston Celtics	L	87	88	11	11	L 1
+1837	PHI	Atlanta Hawks	W	98	96	12	11	W 1
+1838	PHI	Charlotte Hornets	W	127	124	13	11	W 2
+1839	PHI	Charlotte Hornets	W	110	106	14	11	W 3
+1840	PHI	Utah Jazz	L	96	118	14	12	L 1
+1841	PHI	Golden State Warriors	W	102	93	15	12	W 1
+1842	PHI	Memphis Grizzlies	L	91	126	15	13	L 1
+1843	PHI	Miami Heat	L	96	101	15	14	L 2
+1844	PHI	Brooklyn Nets	L	105	114	15	15	L 3
+1845	PHI	Boston Celtics	W	108	103	16	15	W 1
+1846	PHI	Atlanta Hawks	L	96	98	16	16	L 1
+1847	PHI	Washington Wizards	W	117	96	17	16	W 1
+1848	PHI	Toronto Raptors	W	114	109	18	16	W 2
+1849	PHI	Brooklyn Nets	W	110	102	19	16	W 3
+1850	PHI	Houston Rockets	W	133	113	20	16	W 4
+1851	PHI	Orlando Magic	W	116	106	21	16	W 5
+1852	PHI	San Antonio Spurs	W	119	100	22	16	W 6
+1853	PHI	Houston Rockets	W	111	91	23	16	W 7
+1854	PHI	Charlotte Hornets	L	98	109	23	17	L 1
+1855	PHI	Boston Celtics	W	111	99	24	17	W 1
+1856	PHI	Miami Heat	W	109	98	25	17	W 2
+1857	PHI	Washington Wizards	L	98	117	25	18	L 1
+1858	PHI	Orlando Magic	W	123	110	26	18	W 1
+1859	PHI	Los Angeles Clippers	L	101	102	26	19	L 1
+1860	PHI	San Antonio Spurs	W	115	109	27	19	W 1
+1861	PHI	New Orleans Pelicans	W	117	107	28	19	W 2
+1862	PHI	Los Angeles Lakers	W	105	87	29	19	W 3
+1863	PHI	Sacramento Kings	W	103	101	30	19	W 4
+1864	PHI	Memphis Grizzlies	W	122	119	31	19	W 5
+1865	PHI	Washington Wizards	L	103	106	31	20	L 1
+1866	PHI	Dallas Mavericks	L	98	107	31	21	L 2
+1867	PHI	Chicago Bulls	W	119	108	32	21	W 1
+1868	PHI	Phoenix Suns	L	109	114	32	22	L 1
+1869	PHI	Oklahoma City Thunder	W	100	87	33	22	W 1
+1870	PHI	Cleveland Cavaliers	W	103	93	34	22	W 2
+1871	PHI	Boston Celtics	L	87	135	34	23	L 1
+1872	PHI	Milwaukee Bucks	W	123	120	35	23	W 1
+1873	PHI	Minnesota Timberwolves	W	133	102	36	23	W 2
+1874	PHI	New York Knicks	W	125	109	37	23	W 3
+1875	PHI	New York Knicks	W	123	108	38	23	W 4
+1876	PHI	Cleveland Cavaliers	W	125	119	39	23	W 5
+1877	PHI	Miami Heat	L	82	99	39	24	L 1
+1878	PHI	Chicago Bulls	W	121	106	40	24	W 1
+1879	PHI	Brooklyn Nets	L	100	129	40	25	L 1
+1880	PHI	Orlando Magic	W	116	114	41	25	W 1
+1881	PHI	Denver Nuggets	L	110	114	41	26	L 1
+1882	PHI	Cleveland Cavaliers	W	118	114	42	26	W 1
+1883	PHI	Dallas Mavericks	W	111	101	43	26	W 2
+1884	PHI	Toronto Raptors	L	88	93	43	27	L 1
+1885	PHI	Miami Heat	W	113	106	44	27	W 1
+1886	PHI	Los Angeles Lakers	W	126	121	45	27	W 2
+1887	PHI	Los Angeles Clippers	W	122	97	46	27	W 3
+1888	PHI	Phoenix Suns	L	104	114	46	28	L 1
+1889	PHI	Milwaukee Bucks	L	116	118	46	29	L 2
+1890	PHI	Detroit Pistons	L	94	102	46	30	L 3
+1891	PHI	Charlotte Hornets	W	144	114	47	30	W 1
+1892	PHI	Cleveland Cavaliers	W	112	108	48	30	W 2
+1893	PHI	Indiana Pacers	W	131	122	49	30	W 3
+1894	PHI	Toronto Raptors	L	114	119	49	31	L 1
+1895	PHI	Indiana Pacers	W	133	120	50	31	W 1
+1896	PHI	Detroit Pistons	W	118	106	51	31	W 2
+1897	PHO	Denver Nuggets	L	98	110	0	1	L 1
+1898	PHO	Los Angeles Lakers	W	115	105	1	1	W 1
+1899	PHO	Portland Trail Blazers	L	105	134	1	2	L 1
+1900	PHO	Sacramento Kings	L	107	110	1	3	L 2
+1901	PHO	Cleveland Cavaliers	W	101	92	2	3	W 1
+1902	PHO	New Orleans Pelicans	W	112	100	3	3	W 2
+1903	PHO	Houston Rockets	W	123	111	4	3	W 3
+1904	PHO	Atlanta Hawks	W	121	117	5	3	W 4
+1905	PHO	Sacramento Kings	W	109	104	6	3	W 5
+1906	PHO	Portland Trail Blazers	W	119	109	7	3	W 6
+1907	PHO	Memphis Grizzlies	W	119	94	8	3	W 7
+1908	PHO	Houston Rockets	W	115	89	9	3	W 8
+1909	PHO	Minnesota Timberwolves	W	99	96	10	3	W 9
+1910	PHO	Dallas Mavericks	W	105	98	11	3	W 10
+1911	PHO	Dallas Mavericks	W	112	104	12	3	W 11
+1912	PHO	Denver Nuggets	W	126	97	13	3	W 12
+1913	PHO	San Antonio Spurs	W	115	111	14	3	W 13
+1914	PHO	Cleveland Cavaliers	W	120	115	15	3	W 14
+1915	PHO	New York Knicks	W	118	97	16	3	W 15
+1916	PHO	Brooklyn Nets	W	113	107	17	3	W 16
+1917	PHO	Golden State Warriors	W	104	96	18	3	W 17
+1918	PHO	Detroit Pistons	W	114	103	19	3	W 18
+1919	PHO	Golden State Warriors	L	96	118	19	4	L 1
+1920	PHO	San Antonio Spurs	W	108	104	20	4	W 1
+1921	PHO	Boston Celtics	W	111	90	21	4	W 2
+1922	PHO	Los Angeles Clippers	L	95	111	21	5	L 1
+1923	PHO	Portland Trail Blazers	W	111	107	22	5	W 1
+1924	PHO	Washington Wizards	W	118	98	23	5	W 2
+1925	PHO	Charlotte Hornets	W	137	106	24	5	W 3
+1926	PHO	Los Angeles Lakers	W	108	90	25	5	W 4
+1927	PHO	Oklahoma City Thunder	W	113	101	26	5	W 5
+1928	PHO	Golden State Warriors	L	107	116	26	6	L 1
+1929	PHO	Memphis Grizzlies	L	113	114	26	7	L 2
+1930	PHO	Oklahoma City Thunder	W	115	97	27	7	W 1
+1931	PHO	Boston Celtics	L	108	123	27	8	L 1
+1932	PHO	Charlotte Hornets	W	133	99	28	8	W 1
+1933	PHO	New Orleans Pelicans	W	123	110	29	8	W 2
+1934	PHO	Los Angeles Clippers	W	106	89	30	8	W 3
+1935	PHO	Miami Heat	L	100	123	30	9	L 1
+1936	PHO	Toronto Raptors	W	99	95	31	9	W 1
+1937	PHO	Indiana Pacers	W	112	94	32	9	W 2
+1938	PHO	Detroit Pistons	W	135	108	33	9	W 3
+1939	PHO	San Antonio Spurs	W	121	107	34	9	W 4
+1940	PHO	Dallas Mavericks	W	109	101	35	9	W 5
+1941	PHO	Indiana Pacers	W	113	103	36	9	W 6
+1942	PHO	Utah Jazz	W	115	109	37	9	W 7
+1943	PHO	Utah Jazz	W	105	97	38	9	W 8
+1944	PHO	Minnesota Timberwolves	W	134	124	39	9	W 9
+1945	PHO	San Antonio Spurs	W	115	110	40	9	W 10
+1946	PHO	Brooklyn Nets	W	121	111	41	9	W 11
+1947	PHO	Atlanta Hawks	L	115	124	41	10	L 1
+1948	PHO	Washington Wizards	W	95	80	42	10	W 1
+1949	PHO	Chicago Bulls	W	127	124	43	10	W 2
+1950	PHO	Philadelphia 76ers	W	114	109	44	10	W 3
+1951	PHO	Milwaukee Bucks	W	131	107	45	10	W 4
+1952	PHO	Orlando Magic	W	132	105	46	10	W 5
+1953	PHO	Los Angeles Clippers	W	103	96	47	10	W 6
+1954	PHO	Houston Rockets	W	124	121	48	10	W 7
+1955	PHO	Oklahoma City Thunder	W	124	104	49	10	W 8
+1956	PHO	New Orleans Pelicans	L	102	117	49	11	L 1
+1957	PHO	Utah Jazz	L	114	118	49	12	L 2
+1958	PHO	Portland Trail Blazers	W	120	90	50	12	W 1
+1959	PHO	New York Knicks	W	115	114	51	12	W 2
+1960	PHO	Milwaukee Bucks	L	122	132	51	13	L 1
+1961	PHO	Orlando Magic	W	102	99	52	13	W 1
+1962	PHO	Miami Heat	W	111	90	53	13	W 2
+1963	PHO	Toronto Raptors	L	112	117	53	14	L 1
+1964	PHO	Los Angeles Lakers	W	140	111	54	14	W 1
+1965	PHO	New Orleans Pelicans	W	131	115	55	14	W 2
+1966	PHO	Houston Rockets	W	129	112	56	14	W 3
+1967	PHO	Chicago Bulls	W	129	102	57	14	W 4
+1968	PHO	Sacramento Kings	W	127	124	58	14	W 5
+1969	PHO	Minnesota Timberwolves	W	125	116	59	14	W 6
+1970	PHO	Denver Nuggets	W	140	130	60	14	W 7
+1971	PHO	Philadelphia 76ers	W	114	104	61	14	W 8
+1972	PHO	Golden State Warriors	W	107	103	62	14	W 9
+1973	PHO	Memphis Grizzlies	L	114	122	62	15	L 1
+1974	PHO	Oklahoma City Thunder	L	96	117	62	16	L 2
+1975	PHO	Los Angeles Lakers	W	121	110	63	16	W 1
+1976	PHO	Los Angeles Clippers	L	109	113	63	17	L 1
+1977	PHO	Utah Jazz	W	111	105	64	17	W 1
+1978	PHO	Sacramento Kings	L	109	116	64	18	L 1
+1979	POR	Sacramento Kings	L	121	124	0	1	L 1
+1980	POR	Phoenix Suns	W	134	105	1	1	W 1
+1981	POR	Los Angeles Clippers	L	86	116	1	2	L 1
+1982	POR	Memphis Grizzlies	W	116	96	2	2	W 1
+1983	POR	Los Angeles Clippers	W	111	92	3	2	W 2
+1984	POR	Charlotte Hornets	L	113	125	3	3	L 1
+1985	POR	Philadelphia 76ers	L	103	113	3	4	L 2
+1986	POR	Cleveland Cavaliers	L	104	107	3	5	L 3
+1987	POR	Indiana Pacers	W	110	106	4	5	W 1
+1988	POR	Los Angeles Lakers	W	105	90	5	5	W 2
+1989	POR	Los Angeles Clippers	L	109	117	5	6	L 1
+1990	POR	Phoenix Suns	L	109	119	5	7	L 2
+1991	POR	Houston Rockets	W	104	92	6	7	W 1
+1992	POR	Denver Nuggets	L	95	124	6	8	L 1
+1993	POR	Toronto Raptors	W	118	113	7	8	W 1
+1994	POR	Chicago Bulls	W	112	107	8	8	W 2
+1995	POR	Philadelphia 76ers	W	118	111	9	8	W 3
+1996	POR	Denver Nuggets	W	119	100	10	8	W 4
+1997	POR	Sacramento Kings	L	121	125	10	9	L 1
+1998	POR	Golden State Warriors	L	103	118	10	10	L 2
+1999	POR	Utah Jazz	L	107	129	10	11	L 3
+2000	POR	Detroit Pistons	W	110	92	11	11	W 1
+2001	POR	San Antonio Spurs	L	83	114	11	12	L 1
+2002	POR	Boston Celtics	L	117	145	11	13	L 2
+2003	POR	Los Angeles Clippers	L	90	102	11	14	L 3
+2004	POR	Golden State Warriors	L	94	104	11	15	L 4
+2005	POR	Minnesota Timberwolves	L	111	116	11	16	L 5
+2006	POR	Phoenix Suns	L	107	111	11	17	L 6
+2007	POR	Memphis Grizzlies	L	103	113	11	18	L 7
+2008	POR	Charlotte Hornets	W	125	116	12	18	W 1
+2009	POR	Memphis Grizzlies	W	105	100	13	18	W 2
+2010	POR	New Orleans Pelicans	L	97	111	13	19	L 1
+2011	POR	Dallas Mavericks	L	117	132	13	20	L 2
+2012	POR	Utah Jazz	L	105	120	13	21	L 3
+2013	POR	Los Angeles Lakers	L	106	139	13	22	L 4
+2014	POR	Atlanta Hawks	W	136	131	14	22	W 1
+2015	POR	Miami Heat	L	109	115	14	23	L 1
+2016	POR	Cleveland Cavaliers	L	101	114	14	24	L 2
+2017	POR	Sacramento Kings	W	103	88	15	24	W 1
+2018	POR	Brooklyn Nets	W	114	108	16	24	W 2
+2019	POR	Denver Nuggets	L	108	140	16	25	L 1
+2020	POR	Washington Wizards	W	115	110	17	25	W 1
+2021	POR	Orlando Magic	W	98	88	18	25	W 2
+2022	POR	Miami Heat	L	92	104	18	26	L 1
+2023	POR	Boston Celtics	W	109	105	19	26	W 1
+2024	POR	Toronto Raptors	W	114	105	20	26	W 2
+2025	POR	Minnesota Timberwolves	L	107	109	20	27	L 1
+2026	POR	Dallas Mavericks	L	112	132	20	28	L 2
+2027	POR	Houston Rockets	W	125	110	21	28	W 1
+2028	POR	Chicago Bulls	L	116	130	21	29	L 1
+2029	POR	Oklahoma City Thunder	L	81	98	21	30	L 2
+2030	POR	Los Angeles Lakers	L	94	99	21	31	L 3
+2031	POR	Oklahoma City Thunder	L	93	96	21	32	L 4
+2032	POR	Milwaukee Bucks	L	108	137	21	33	L 5
+2033	POR	Orlando Magic	L	95	113	21	34	L 6
+2034	POR	Los Angeles Lakers	W	107	105	22	34	W 1
+2035	POR	New York Knicks	W	112	103	23	34	W 2
+2036	POR	Milwaukee Bucks	W	122	107	24	34	W 3
+2037	POR	Memphis Grizzlies	W	123	119	25	34	W 4
+2038	POR	Golden State Warriors	L	95	132	25	35	L 1
+2039	POR	Denver Nuggets	L	92	124	25	36	L 2
+2040	POR	Phoenix Suns	L	90	120	25	37	L 3
+2041	POR	Minnesota Timberwolves	L	121	135	25	38	L 4
+2042	POR	Minnesota Timberwolves	L	81	124	25	39	L 5
+2043	POR	Utah Jazz	L	85	123	25	40	L 6
+2044	POR	Washington Wizards	W	127	118	26	40	W 1
+2045	POR	Atlanta Hawks	L	113	122	26	41	L 1
+2046	POR	New York Knicks	L	98	128	26	42	L 2
+2047	POR	Brooklyn Nets	L	123	128	26	43	L 3
+2048	POR	Indiana Pacers	L	98	129	26	44	L 4
+2049	POR	Detroit Pistons	W	119	115	27	44	W 1
+2050	POR	San Antonio Spurs	L	96	133	27	45	L 1
+2051	POR	Houston Rockets	L	106	125	27	46	L 2
+2052	POR	Houston Rockets	L	98	115	27	47	L 3
+2053	POR	Oklahoma City Thunder	L	131	134	27	48	L 4
+2054	POR	New Orleans Pelicans	L	107	117	27	49	L 5
+2055	POR	San Antonio Spurs	L	111	130	27	50	L 6
+2056	POR	San Antonio Spurs	L	92	113	27	51	L 7
+2057	POR	Oklahoma City Thunder	L	94	98	27	52	L 8
+2058	POR	New Orleans Pelicans	L	94	127	27	53	L 9
+2059	POR	Dallas Mavericks	L	78	128	27	54	L 10
+2060	POR	Utah Jazz	L	80	111	27	55	L 11
+2061	SAC	Portland Trail Blazers	W	124	121	1	0	W 1
+2062	SAC	Utah Jazz	L	101	110	1	1	L 1
+2063	SAC	Golden State Warriors	L	107	119	1	2	L 2
+2064	SAC	Phoenix Suns	W	110	107	2	2	W 1
+2065	SAC	New Orleans Pelicans	W	113	109	3	2	W 2
+2066	SAC	Dallas Mavericks	L	99	105	3	3	L 1
+2067	SAC	Utah Jazz	L	113	119	3	4	L 2
+2068	SAC	New Orleans Pelicans	W	112	99	4	4	W 1
+2069	SAC	Charlotte Hornets	W	140	110	5	4	W 2
+2070	SAC	Indiana Pacers	L	91	94	5	5	L 1
+2071	SAC	Phoenix Suns	L	104	109	5	6	L 2
+2072	SAC	San Antonio Spurs	L	117	136	5	7	L 3
+2073	SAC	Oklahoma City Thunder	L	103	105	5	8	L 4
+2074	SAC	Detroit Pistons	W	129	107	6	8	W 1
+2075	SAC	Minnesota Timberwolves	L	97	107	6	9	L 1
+2076	SAC	Toronto Raptors	L	89	108	6	10	L 2
+2077	SAC	Utah Jazz	L	105	123	6	11	L 3
+2078	SAC	Philadelphia 76ers	L	94	102	6	12	L 4
+2079	SAC	Portland Trail Blazers	W	125	121	7	12	W 1
+2080	SAC	Los Angeles Lakers	W	141	137	8	12	W 2
+2081	SAC	Memphis Grizzlies	L	101	128	8	13	L 1
+2082	SAC	Los Angeles Lakers	L	92	117	8	14	L 2
+2083	SAC	Los Angeles Clippers	W	124	115	9	14	W 1
+2084	SAC	Los Angeles Clippers	W	104	99	10	14	W 2
+2085	SAC	Orlando Magic	W	142	130	11	14	W 3
+2086	SAC	Charlotte Hornets	L	123	124	11	15	L 1
+2087	SAC	Cleveland Cavaliers	L	103	117	11	16	L 2
+2088	SAC	Toronto Raptors	L	101	124	11	17	L 3
+2089	SAC	Washington Wizards	W	119	105	12	17	W 1
+2090	SAC	Memphis Grizzlies	L	105	124	12	18	L 1
+2091	SAC	San Antonio Spurs	W	121	114	13	18	W 1
+2092	SAC	Golden State Warriors	L	98	113	13	19	L 1
+2093	SAC	Los Angeles Clippers	L	89	105	13	20	L 2
+2094	SAC	Memphis Grizzlies	L	102	127	13	21	L 3
+2095	SAC	Oklahoma City Thunder	W	117	111	14	21	W 1
+2096	SAC	Dallas Mavericks	W	95	94	15	21	W 2
+2097	SAC	Dallas Mavericks	L	96	112	15	22	L 1
+2098	SAC	Miami Heat	W	115	113	16	22	W 1
+2099	SAC	Los Angeles Lakers	L	114	122	16	23	L 1
+2100	SAC	Atlanta Hawks	L	102	108	16	24	L 2
+2101	SAC	Denver Nuggets	L	111	121	16	25	L 3
+2102	SAC	Portland Trail Blazers	L	88	103	16	26	L 4
+2103	SAC	Cleveland Cavaliers	L	108	109	16	27	L 5
+2104	SAC	Los Angeles Lakers	W	125	116	17	27	W 1
+2105	SAC	Houston Rockets	W	126	114	18	27	W 2
+2106	SAC	Houston Rockets	L	112	118	18	28	L 1
+2107	SAC	Detroit Pistons	L	131	133	18	29	L 2
+2108	SAC	Milwaukee Bucks	L	127	133	18	30	L 3
+2109	SAC	Boston Celtics	L	75	128	18	31	L 4
+2110	SAC	Atlanta Hawks	L	104	121	18	32	L 5
+2111	SAC	Philadelphia 76ers	L	101	103	18	33	L 6
+2112	SAC	New York Knicks	L	96	116	18	34	L 7
+2113	SAC	Brooklyn Nets	W	112	101	19	34	W 1
+2114	SAC	Golden State Warriors	L	114	126	19	35	L 1
+2115	SAC	Oklahoma City Thunder	W	113	103	20	35	W 1
+2116	SAC	Minnesota Timberwolves	L	114	134	20	36	L 1
+2117	SAC	Minnesota Timberwolves	W	132	119	21	36	W 1
+2118	SAC	Washington Wizards	W	123	110	22	36	W 2
+2119	SAC	Brooklyn Nets	L	85	109	22	37	L 1
+2120	SAC	Chicago Bulls	L	118	125	22	38	L 2
+2121	SAC	Denver Nuggets	L	110	128	22	39	L 3
+2122	SAC	Denver Nuggets	L	110	115	22	40	L 4
+2123	SAC	Oklahoma City Thunder	W	131	110	23	40	W 1
+2124	SAC	New Orleans Pelicans	L	95	125	23	41	L 1
+2125	SAC	San Antonio Spurs	W	115	112	24	41	W 1
+2126	SAC	Dallas Mavericks	L	113	114	24	42	L 1
+2127	SAC	New York Knicks	L	115	131	24	43	L 2
+2128	SAC	Denver Nuggets	L	100	106	24	44	L 3
+2129	SAC	Utah Jazz	L	125	134	24	45	L 4
+2130	SAC	Chicago Bulls	W	112	103	25	45	W 1
+2131	SAC	Milwaukee Bucks	L	126	135	25	46	L 1
+2132	SAC	Boston Celtics	L	97	126	25	47	L 2
+2133	SAC	Phoenix Suns	L	124	127	25	48	L 3
+2134	SAC	Indiana Pacers	W	110	109	26	48	W 1
+2135	SAC	Orlando Magic	W	114	110	27	48	W 2
+2136	SAC	Miami Heat	L	100	123	27	49	L 1
+2137	SAC	Houston Rockets	W	121	118	28	49	W 1
+2138	SAC	Houston Rockets	W	122	117	29	49	W 2
+2139	SAC	Golden State Warriors	L	90	109	29	50	L 1
+2140	SAC	New Orleans Pelicans	L	109	123	29	51	L 2
+2141	SAC	Los Angeles Clippers	L	98	117	29	52	L 3
+2142	SAC	Phoenix Suns	W	116	109	30	52	W 1
+2143	SAS	Orlando Magic	W	123	97	1	0	W 1
+2144	SAS	Denver Nuggets	L	96	102	1	1	L 1
+2145	SAS	Milwaukee Bucks	L	111	121	1	2	L 2
+2146	SAS	Los Angeles Lakers	L	121	125	1	3	L 3
+2147	SAS	Dallas Mavericks	L	99	104	1	4	L 4
+2148	SAS	Milwaukee Bucks	W	102	93	2	4	W 1
+2149	SAS	Indiana Pacers	L	118	131	2	5	L 1
+2150	SAS	Dallas Mavericks	L	108	109	2	6	L 2
+2151	SAS	Orlando Magic	W	102	89	3	6	W 1
+2152	SAS	Oklahoma City Thunder	L	94	99	3	7	L 1
+2153	SAS	Sacramento Kings	W	136	117	4	7	W 1
+2154	SAS	Dallas Mavericks	L	109	123	4	8	L 1
+2155	SAS	Los Angeles Lakers	L	106	114	4	9	L 2
+2156	SAS	Los Angeles Clippers	L	92	106	4	10	L 3
+2157	SAS	Minnesota Timberwolves	L	90	115	4	11	L 4
+2158	SAS	Phoenix Suns	L	111	115	4	12	L 5
+2159	SAS	Atlanta Hawks	L	106	124	4	13	L 6
+2160	SAS	Boston Celtics	W	96	88	5	13	W 1
+2161	SAS	Washington Wizards	W	116	99	6	13	W 2
+2162	SAS	Portland Trail Blazers	W	114	83	7	13	W 3
+2163	SAS	Golden State Warriors	W	112	107	8	13	W 4
+2164	SAS	Phoenix Suns	L	104	108	8	14	L 1
+2165	SAS	New York Knicks	L	109	121	8	15	L 2
+2166	SAS	Denver Nuggets	W	123	111	9	15	W 1
+2167	SAS	Denver Nuggets	L	112	127	9	16	L 1
+2168	SAS	New Orleans Pelicans	W	112	97	10	16	W 1
+2169	SAS	Charlotte Hornets	L	115	131	10	17	L 1
+2170	SAS	Utah Jazz	W	128	126	11	17	W 1
+2171	SAS	Sacramento Kings	L	114	121	11	18	L 1
+2172	SAS	Los Angeles Clippers	W	116	92	12	18	W 1
+2173	SAS	Los Angeles Lakers	W	138	110	13	18	W 2
+2174	SAS	Detroit Pistons	W	144	109	14	18	W 3
+2175	SAS	Utah Jazz	L	104	110	14	19	L 1
+2176	SAS	Memphis Grizzlies	L	105	118	14	20	L 2
+2177	SAS	Detroit Pistons	L	116	117	14	21	L 3
+2178	SAS	Toronto Raptors	L	104	129	14	22	L 4
+2179	SAS	Boston Celtics	W	99	97	15	22	W 1
+2180	SAS	Philadelphia 76ers	L	100	119	15	23	L 1
+2181	SAS	Brooklyn Nets	L	119	121	15	24	L 2
+2182	SAS	New York Knicks	L	96	111	15	25	L 3
+2183	SAS	Houston Rockets	L	124	128	15	26	L 4
+2184	SAS	Cleveland Cavaliers	L	109	114	15	27	L 5
+2185	SAS	Los Angeles Clippers	W	101	94	16	27	W 1
+2186	SAS	Phoenix Suns	L	107	121	16	28	L 1
+2187	SAS	Oklahoma City Thunder	W	118	96	17	28	W 1
+2188	SAS	Brooklyn Nets	L	102	117	17	29	L 1
+2189	SAS	Philadelphia 76ers	L	109	115	17	30	L 2
+2190	SAS	Houston Rockets	W	134	104	18	30	W 1
+2191	SAS	Memphis Grizzlies	L	110	118	18	31	L 1
+2192	SAS	Chicago Bulls	W	131	122	19	31	W 1
+2193	SAS	Phoenix Suns	L	110	115	19	32	L 1
+2194	SAS	Golden State Warriors	L	120	124	19	33	L 2
+2195	SAS	Miami Heat	L	95	112	19	34	L 3
+2196	SAS	Houston Rockets	W	131	106	20	34	W 1
+2197	SAS	Cleveland Cavaliers	L	92	105	20	35	L 1
+2198	SAS	Atlanta Hawks	W	136	121	21	35	W 1
+2199	SAS	New Orleans Pelicans	W	124	114	22	35	W 2
+2200	SAS	Chicago Bulls	L	109	120	22	36	L 1
+2201	SAS	Oklahoma City Thunder	W	114	106	23	36	W 1
+2202	SAS	Washington Wizards	W	157	153	24	36	W 2
+2203	SAS	Miami Heat	L	129	133	24	37	L 1
+2204	SAS	Memphis Grizzlies	L	105	118	24	38	L 2
+2205	SAS	Sacramento Kings	L	112	115	24	39	L 3
+2206	SAS	Charlotte Hornets	L	117	123	24	40	L 4
+2207	SAS	Los Angeles Lakers	W	117	110	25	40	W 1
+2208	SAS	Toronto Raptors	L	104	119	25	41	L 1
+2209	SAS	Utah Jazz	W	104	102	26	41	W 1
+2210	SAS	Indiana Pacers	L	108	119	26	42	L 1
+2211	SAS	Minnesota Timberwolves	L	139	149	26	43	L 2
+2212	SAS	Oklahoma City Thunder	W	122	120	27	43	W 1
+2213	SAS	New Orleans Pelicans	L	91	124	27	44	L 1
+2214	SAS	Golden State Warriors	W	110	108	28	44	W 1
+2215	SAS	Portland Trail Blazers	W	133	96	29	44	W 2
+2216	SAS	New Orleans Pelicans	W	107	103	30	44	W 3
+2217	SAS	Houston Rockets	W	123	120	31	44	W 4
+2218	SAS	Memphis Grizzlies	L	111	112	31	45	L 1
+2219	SAS	Portland Trail Blazers	W	130	111	32	45	W 1
+2220	SAS	Portland Trail Blazers	W	113	92	33	45	W 2
+2221	SAS	Denver Nuggets	W	116	97	34	45	W 3
+2222	SAS	Minnesota Timberwolves	L	121	127	34	46	L 1
+2223	SAS	Golden State Warriors	L	94	100	34	47	L 2
+2224	SAS	Dallas Mavericks	L	120	130	34	48	L 3
+2225	SAS	New Orleans Pelicans	L	103	113	34	49	L 4
+2226	TOR	Washington Wizards	L	83	98	0	1	L 1
+2227	TOR	Boston Celtics	W	115	83	1	1	W 1
+2228	TOR	Dallas Mavericks	L	95	103	1	2	L 1
+2229	TOR	Chicago Bulls	L	108	111	1	3	L 2
+2230	TOR	Indiana Pacers	W	118	100	2	3	W 1
+2231	TOR	Orlando Magic	W	110	109	3	3	W 2
+2232	TOR	Indiana Pacers	W	97	94	4	3	W 3
+2233	TOR	New York Knicks	W	113	104	5	3	W 4
+2234	TOR	Washington Wizards	W	109	100	6	3	W 5
+2235	TOR	Cleveland Cavaliers	L	101	102	6	4	L 1
+2236	TOR	Brooklyn Nets	L	103	116	6	5	L 2
+2237	TOR	Boston Celtics	L	88	104	6	6	L 3
+2238	TOR	Philadelphia 76ers	W	115	109	7	6	W 1
+2239	TOR	Detroit Pistons	L	121	127	7	7	L 1
+2240	TOR	Portland Trail Blazers	L	113	118	7	8	L 2
+2241	TOR	Utah Jazz	L	103	119	7	9	L 3
+2242	TOR	Sacramento Kings	W	108	89	8	9	W 1
+2243	TOR	Golden State Warriors	L	104	119	8	10	L 1
+2244	TOR	Memphis Grizzlies	W	126	113	9	10	W 1
+2245	TOR	Indiana Pacers	L	97	114	9	11	L 1
+2246	TOR	Boston Celtics	L	97	109	9	12	L 2
+2247	TOR	Memphis Grizzlies	L	91	98	9	13	L 3
+2248	TOR	Milwaukee Bucks	W	97	93	10	13	W 1
+2249	TOR	Washington Wizards	W	102	90	11	13	W 2
+2250	TOR	Oklahoma City Thunder	L	109	110	11	14	L 1
+2251	TOR	New York Knicks	W	90	87	12	14	W 1
+2252	TOR	Sacramento Kings	W	124	101	13	14	W 2
+2253	TOR	Brooklyn Nets	L	129	131	13	15	L 1
+2254	TOR	Golden State Warriors	W	119	100	14	15	W 1
+2255	TOR	Cleveland Cavaliers	L	99	144	14	16	L 1
+2256	TOR	Philadelphia 76ers	L	109	114	14	17	L 2
+2257	TOR	Los Angeles Clippers	W	116	108	15	17	W 1
+2258	TOR	New York Knicks	W	120	105	16	17	W 2
+2259	TOR	San Antonio Spurs	W	129	104	17	17	W 3
+2260	TOR	Milwaukee Bucks	W	117	111	18	17	W 4
+2261	TOR	Utah Jazz	W	122	108	19	17	W 5
+2262	TOR	New Orleans Pelicans	W	105	101	20	17	W 6
+2263	TOR	Phoenix Suns	L	95	99	20	18	L 1
+2264	TOR	Detroit Pistons	L	87	103	20	19	L 2
+2265	TOR	Milwaukee Bucks	W	103	96	21	19	W 1
+2266	TOR	Miami Heat	L	99	104	21	20	L 1
+2267	TOR	Dallas Mavericks	L	98	102	21	21	L 2
+2268	TOR	Washington Wizards	W	109	105	22	21	W 1
+2269	TOR	Portland Trail Blazers	L	105	114	22	22	L 1
+2270	TOR	Charlotte Hornets	W	125	113	23	22	W 1
+2271	TOR	Chicago Bulls	L	105	111	23	23	L 1
+2272	TOR	Miami Heat	W	124	120	24	23	W 1
+2273	TOR	Atlanta Hawks	W	106	100	25	23	W 2
+2274	TOR	Miami Heat	W	110	106	26	23	W 3
+2275	TOR	Chicago Bulls	W	127	120	27	23	W 4
+2276	TOR	Atlanta Hawks	W	125	114	28	23	W 5
+2277	TOR	Charlotte Hornets	W	116	101	29	23	W 6
+2278	TOR	Oklahoma City Thunder	W	117	98	30	23	W 7
+2279	TOR	Houston Rockets	W	139	120	31	23	W 8
+2280	TOR	Denver Nuggets	L	109	110	31	24	L 1
+2281	TOR	New Orleans Pelicans	L	90	120	31	25	L 2
+2282	TOR	Minnesota Timberwolves	W	103	91	32	25	W 1
+2283	TOR	Charlotte Hornets	L	93	125	32	26	L 1
+2284	TOR	Atlanta Hawks	L	100	127	32	27	L 2
+2285	TOR	Brooklyn Nets	W	133	97	33	27	W 1
+2286	TOR	Brooklyn Nets	W	109	108	34	27	W 2
+2287	TOR	Detroit Pistons	L	106	108	34	28	L 1
+2288	TOR	Orlando Magic	L	97	103	34	29	L 2
+2289	TOR	Cleveland Cavaliers	L	96	104	34	30	L 3
+2290	TOR	San Antonio Spurs	W	119	104	35	30	W 1
+2291	TOR	Phoenix Suns	W	117	112	36	30	W 2
+2292	TOR	Denver Nuggets	W	127	115	37	30	W 3
+2293	TOR	Los Angeles Lakers	W	114	103	38	30	W 4
+2294	TOR	Los Angeles Clippers	W	103	100	39	30	W 5
+2295	TOR	Los Angeles Lakers	L	123	128	39	31	L 1
+2296	TOR	Philadelphia 76ers	W	93	88	40	31	W 1
+2297	TOR	Chicago Bulls	L	99	113	40	32	L 1
+2298	TOR	Cleveland Cavaliers	W	117	104	41	32	W 1
+2299	TOR	Indiana Pacers	W	131	91	42	32	W 2
+2300	TOR	Boston Celtics	W	115	112	43	32	W 3
+2301	TOR	Minnesota Timberwolves	W	125	102	44	32	W 4
+2302	TOR	Orlando Magic	W	102	89	45	32	W 5
+2303	TOR	Miami Heat	L	109	114	45	33	L 1
+2304	TOR	Atlanta Hawks	W	118	108	46	33	W 1
+2305	TOR	Philadelphia 76ers	W	119	114	47	33	W 2
+2306	TOR	Houston Rockets	W	117	115	48	33	W 3
+2307	TOR	New York Knicks	L	94	105	48	34	L 1
+2308	UTA	Oklahoma City Thunder	W	107	86	1	0	W 1
+2309	UTA	Sacramento Kings	W	110	101	2	0	W 2
+2310	UTA	Denver Nuggets	W	122	110	3	0	W 3
+2311	UTA	Houston Rockets	W	122	91	4	0	W 4
+2312	UTA	Chicago Bulls	L	99	107	4	1	L 1
+2313	UTA	Milwaukee Bucks	W	107	95	5	1	W 1
+2314	UTA	Sacramento Kings	W	119	113	6	1	W 2
+2315	UTA	Atlanta Hawks	W	116	98	7	1	W 3
+2316	UTA	Miami Heat	L	115	118	7	2	L 1
+2317	UTA	Orlando Magic	L	100	107	7	3	L 2
+2318	UTA	Atlanta Hawks	W	110	98	8	3	W 1
+2319	UTA	Indiana Pacers	L	100	111	8	4	L 1
+2320	UTA	Miami Heat	L	105	111	8	5	L 2
+2321	UTA	Philadelphia 76ers	W	120	85	9	5	W 1
+2322	UTA	Toronto Raptors	W	119	103	10	5	W 2
+2323	UTA	Sacramento Kings	W	123	105	11	5	W 3
+2324	UTA	Memphis Grizzlies	L	118	119	11	6	L 1
+2325	UTA	Oklahoma City Thunder	W	110	104	12	6	W 1
+2326	UTA	New Orleans Pelicans	L	97	98	12	7	L 1
+2327	UTA	New Orleans Pelicans	W	127	105	13	7	W 1
+2328	UTA	Portland Trail Blazers	W	129	107	14	7	W 2
+2329	UTA	Boston Celtics	W	137	130	15	7	W 3
+2330	UTA	Cleveland Cavaliers	W	109	108	16	7	W 4
+2331	UTA	Minnesota Timberwolves	W	136	104	17	7	W 5
+2332	UTA	Philadelphia 76ers	W	118	96	18	7	W 6
+2333	UTA	Washington Wizards	W	123	98	19	7	W 7
+2334	UTA	Los Angeles Clippers	W	124	103	20	7	W 8
+2335	UTA	San Antonio Spurs	L	126	128	20	8	L 1
+2336	UTA	Washington Wizards	L	103	109	20	9	L 2
+2337	UTA	Charlotte Hornets	W	112	102	21	9	W 1
+2338	UTA	Minnesota Timberwolves	W	128	116	22	9	W 2
+2339	UTA	Dallas Mavericks	W	120	116	23	9	W 3
+2340	UTA	San Antonio Spurs	W	110	104	24	9	W 4
+2341	UTA	Portland Trail Blazers	W	120	105	25	9	W 5
+2342	UTA	Minnesota Timberwolves	W	120	108	26	9	W 6
+2343	UTA	Golden State Warriors	L	116	123	26	10	L 1
+2344	UTA	New Orleans Pelicans	W	115	104	27	10	W 1
+2345	UTA	Denver Nuggets	W	115	109	28	10	W 2
+2346	UTA	Toronto Raptors	L	108	122	28	11	L 1
+2347	UTA	Indiana Pacers	L	113	125	28	12	L 2
+2348	UTA	Detroit Pistons	L	116	126	28	13	L 3
+2349	UTA	Cleveland Cavaliers	L	91	111	28	14	L 4
+2350	UTA	Denver Nuggets	W	125	102	29	14	W 1
+2351	UTA	Los Angeles Lakers	L	95	101	29	15	L 1
+2352	UTA	Houston Rockets	L	111	116	29	16	L 2
+2353	UTA	Detroit Pistons	W	111	101	30	16	W 1
+2354	UTA	Golden State Warriors	L	92	94	30	17	L 1
+2355	UTA	Phoenix Suns	L	109	115	30	18	L 2
+2356	UTA	Phoenix Suns	L	97	105	30	19	L 3
+2357	UTA	Memphis Grizzlies	L	109	119	30	20	L 4
+2358	UTA	Minnesota Timberwolves	L	106	126	30	21	L 5
+2359	UTA	Denver Nuggets	W	108	104	31	21	W 1
+2360	UTA	Brooklyn Nets	W	125	102	32	21	W 2
+2361	UTA	New York Knicks	W	113	104	33	21	W 3
+2362	UTA	Golden State Warriors	W	111	85	34	21	W 4
+2363	UTA	Orlando Magic	W	114	99	35	21	W 5
+2364	UTA	Houston Rockets	W	135	101	36	21	W 6
+2365	UTA	Los Angeles Lakers	L	101	106	36	22	L 1
+2366	UTA	Dallas Mavericks	W	114	109	37	22	W 1
+2367	UTA	Phoenix Suns	W	118	114	38	22	W 2
+2368	UTA	Houston Rockets	W	132	127	39	22	W 3
+2369	UTA	New Orleans Pelicans	L	90	124	39	23	L 1
+2370	UTA	Oklahoma City Thunder	W	116	103	40	23	W 1
+2371	UTA	Dallas Mavericks	L	103	111	40	24	L 1
+2372	UTA	Portland Trail Blazers	W	123	85	41	24	W 1
+2373	UTA	San Antonio Spurs	L	102	104	41	25	L 1
+2374	UTA	Sacramento Kings	W	134	125	42	25	W 1
+2375	UTA	Milwaukee Bucks	L	111	117	42	26	L 1
+2376	UTA	Chicago Bulls	W	125	110	43	26	W 1
+2377	UTA	Los Angeles Clippers	W	121	92	44	26	W 2
+2378	UTA	New York Knicks	W	108	93	45	26	W 3
+2379	UTA	Brooklyn Nets	L	106	114	45	27	L 1
+2380	UTA	Boston Celtics	L	97	125	45	28	L 2
+2381	UTA	Charlotte Hornets	L	101	107	45	29	L 3
+2382	UTA	Dallas Mavericks	L	100	114	45	30	L 4
+2383	UTA	Los Angeles Clippers	L	115	121	45	31	L 5
+2384	UTA	Los Angeles Lakers	W	122	109	46	31	W 1
+2385	UTA	Golden State Warriors	L	107	111	46	32	L 1
+2386	UTA	Memphis Grizzlies	W	121	115	47	32	W 1
+2387	UTA	Oklahoma City Thunder	W	137	101	48	32	W 2
+2388	UTA	Phoenix Suns	L	105	111	48	33	L 1
+2389	UTA	Portland Trail Blazers	W	111	80	49	33	W 1
+2390	WAS	Toronto Raptors	W	98	83	1	0	W 1
+2391	WAS	Indiana Pacers	W	135	134	2	0	W 2
+2392	WAS	Brooklyn Nets	L	90	104	2	1	L 1
+2393	WAS	Boston Celtics	W	116	107	3	1	W 1
+2394	WAS	Atlanta Hawks	W	122	111	4	1	W 2
+2395	WAS	Boston Celtics	W	115	112	5	1	W 3
+2396	WAS	Atlanta Hawks	L	111	118	5	2	L 1
+2397	WAS	Toronto Raptors	L	100	109	5	3	L 2
+2398	WAS	Memphis Grizzlies	W	115	87	6	3	W 1
+2399	WAS	Milwaukee Bucks	W	101	94	7	3	W 2
+2400	WAS	Cleveland Cavaliers	W	97	94	8	3	W 3
+2401	WAS	Orlando Magic	W	104	92	9	3	W 4
+2402	WAS	New Orleans Pelicans	W	105	100	10	3	W 5
+2403	WAS	Charlotte Hornets	L	87	97	10	4	L 1
+2404	WAS	Miami Heat	L	97	112	10	5	L 2
+2405	WAS	Miami Heat	W	103	100	11	5	W 1
+2406	WAS	Charlotte Hornets	L	103	109	11	6	L 1
+2407	WAS	New Orleans Pelicans	L	102	127	11	7	L 2
+2408	WAS	Oklahoma City Thunder	W	101	99	12	7	W 1
+2409	WAS	Dallas Mavericks	W	120	114	13	7	W 2
+2410	WAS	San Antonio Spurs	L	99	116	13	8	L 1
+2411	WAS	Minnesota Timberwolves	W	115	107	14	8	W 1
+2412	WAS	Cleveland Cavaliers	L	101	116	14	9	L 1
+2413	WAS	Toronto Raptors	L	90	102	14	10	L 2
+2414	WAS	Indiana Pacers	L	110	116	14	11	L 3
+2415	WAS	Detroit Pistons	W	119	116	15	11	W 1
+2416	WAS	Utah Jazz	L	98	123	15	12	L 1
+2417	WAS	Denver Nuggets	L	107	113	15	13	L 2
+2418	WAS	Sacramento Kings	L	105	119	15	14	L 3
+2419	WAS	Phoenix Suns	L	98	118	15	15	L 4
+2420	WAS	Utah Jazz	W	109	103	16	15	W 1
+2421	WAS	New York Knicks	W	124	117	17	15	W 2
+2422	WAS	Philadelphia 76ers	L	96	117	17	16	L 1
+2423	WAS	Miami Heat	L	112	119	17	17	L 2
+2424	WAS	Cleveland Cavaliers	W	110	93	18	17	W 1
+2425	WAS	Chicago Bulls	L	119	120	18	18	L 1
+2426	WAS	Charlotte Hornets	W	124	121	19	18	W 1
+2427	WAS	Houston Rockets	L	111	114	19	19	L 1
+2428	WAS	Chicago Bulls	L	122	130	19	20	L 2
+2429	WAS	Orlando Magic	W	102	100	20	20	W 1
+2430	WAS	Oklahoma City Thunder	W	122	118	21	20	W 2
+2431	WAS	Orlando Magic	W	112	106	22	20	W 3
+2432	WAS	Portland Trail Blazers	L	110	115	22	21	L 1
+2433	WAS	Philadelphia 76ers	W	117	98	23	21	W 1
+2434	WAS	Brooklyn Nets	L	118	119	23	22	L 1
+2435	WAS	Toronto Raptors	L	105	109	23	23	L 2
+2436	WAS	Boston Celtics	L	87	116	23	24	L 3
+2437	WAS	Los Angeles Clippers	L	115	116	23	25	L 4
+2438	WAS	Memphis Grizzlies	L	95	115	23	26	L 5
+2439	WAS	Milwaukee Bucks	L	98	112	23	27	L 6
+2440	WAS	Philadelphia 76ers	W	106	103	24	27	W 1
+2441	WAS	Phoenix Suns	L	80	95	24	28	L 1
+2442	WAS	Miami Heat	L	100	121	24	29	L 2
+2443	WAS	Brooklyn Nets	W	113	112	25	29	W 1
+2444	WAS	Sacramento Kings	L	110	123	25	30	L 1
+2445	WAS	Detroit Pistons	W	103	94	26	30	W 1
+2446	WAS	Indiana Pacers	L	108	113	26	31	L 1
+2447	WAS	Brooklyn Nets	W	117	103	27	31	W 1
+2448	WAS	San Antonio Spurs	L	153	157	27	32	L 1
+2449	WAS	Cleveland Cavaliers	L	86	92	27	33	L 2
+2450	WAS	Detroit Pistons	W	116	113	28	33	W 1
+2451	WAS	Atlanta Hawks	L	114	117	28	34	L 1
+2452	WAS	Indiana Pacers	W	133	123	29	34	W 1
+2453	WAS	Los Angeles Clippers	L	109	115	29	35	L 1
+2454	WAS	Los Angeles Lakers	L	109	122	29	36	L 2
+2455	WAS	Portland Trail Blazers	L	118	127	29	37	L 3
+2456	WAS	Golden State Warriors	L	112	126	29	38	L 4
+2457	WAS	Denver Nuggets	L	109	127	29	39	L 5
+2458	WAS	New York Knicks	L	97	100	29	40	L 6
+2459	WAS	Los Angeles Lakers	W	127	119	30	40	W 1
+2460	WAS	Houston Rockets	L	97	115	30	41	L 1
+2461	WAS	Milwaukee Bucks	L	102	114	30	42	L 2
+2462	WAS	Detroit Pistons	W	100	97	31	42	W 1
+2463	WAS	Golden State Warriors	W	123	115	32	42	W 2
+2464	WAS	Chicago Bulls	L	94	107	32	43	L 1
+2465	WAS	Orlando Magic	W	127	110	33	43	W 1
+2466	WAS	Dallas Mavericks	W	135	103	34	43	W 2
+2467	WAS	Boston Celtics	L	102	144	34	44	L 1
+2468	WAS	Minnesota Timberwolves	W	132	114	35	44	W 1
+2469	WAS	Atlanta Hawks	L	103	118	35	45	L 1
+2470	WAS	New York Knicks	L	92	114	35	46	L 2
+2471	WAS	Charlotte Hornets	L	108	124	35	47	L 3
