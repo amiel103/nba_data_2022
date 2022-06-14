@@ -64,5 +64,5 @@ for curr in teams:
     error.append(curr)    
 print(len(hist) )
 df = pd.DataFrame(hist['games'])
-df.to_csv("nba_preseason_games_2022.csv", sep='\t', encoding='utf-8')
+df.to_csv("nba_preseason_games_2022.csv", sep=',', encoding='utf-8')
 
